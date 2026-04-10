@@ -15,6 +15,7 @@ export const TRANSLATIONS = {
     customLyricsPlaceholder: 'Liitä tai kirjoita sanat...',
     promptEditHeader: 'Muokkaa tätä sitsilaulua:',
     promptInstructionsHeader: 'Muokkausohjeet:',
+    promptLanguageSuffix: '',
   },
   en: {
     appName: 'Sitsi Song Editor',
@@ -32,6 +33,7 @@ export const TRANSLATIONS = {
     customLyricsPlaceholder: 'Paste or write lyrics...',
     promptEditHeader: 'Edit this sitsi song:',
     promptInstructionsHeader: 'Editing instructions:',
+    promptLanguageSuffix: 'Please provide the response in English.',
   }
 };
 
@@ -46,6 +48,7 @@ export const CONFIG = () => TRANSLATIONS[currentLang];
 
 export const PROMPT_TEMPLATE = (lyrics, instructions) => {
   const t = CONFIG();
-  return `{konteksti}\n\n${t.promptEditHeader} ${lyrics}\n\n${t.promptInstructionsHeader} ${instructions}`;
+  return `{konteksti}\n\n${t.promptEditHeader} ${lyrics}\n\n${t.promptInstructionsHeader} ${instructions}\n\n${t.promptLanguageSuffix}`.trim();
 };
+
 
