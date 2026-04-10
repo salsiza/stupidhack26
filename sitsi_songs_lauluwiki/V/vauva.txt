@@ -1,0 +1,33 @@
+Title: vauva
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hector - Mandoliinimies
+Tags: K18
+
+---LYRICS---
+
+Hei ystävä pyyhi kyyneleet,
+aivan turhaan niitä teet.
+Minä mandariinin perseeseeni saan mahtumaan,
+vaik se hiukan kirpaisee,
+:,: kun mandariinin tunkee anukseen. :,:
+
+On mandariinimiehen perse tää,
+niin täynnä hedelmää,
+että joskus unohtaa
+voi kuinka pystyis paskantaan
+taikka edes istumaan,
+:,: kun mandariinin salakuljettaa :,: 
+
+Aijaijaijai... Mehut sulle jossain juon.
+
+Aijaijaijai... Jännäkakan sulle tuon.
+
+Minä mandariinin sinne laittaa
+voin tietenkin,
+ehkä jopa melonin.
+:,: Ne sulle tuon kun saavun takaisin. :,:
+
+---END---

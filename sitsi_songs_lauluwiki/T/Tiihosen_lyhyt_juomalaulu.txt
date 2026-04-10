@@ -1,0 +1,13 @@
+Title: Tiihosen lyhyt juomalaulu
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Cheek-Voittaja
+Tags: K18
+
+---LYRICS---
+
+Tulin
+
+---END---

@@ -1,0 +1,31 @@
+Title: Hei, vahtimestari
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+:,: Hei vahtimestari,
+tule, täytä lasini,
+vie tyhjät pullot pois :,:
+:,: Kyllä enemmänkin juodaan, 
+jos vain lisää tuodaan,
+ja laskut maksetaan, jos jaksetaan. :,: 
+
+:,: Hei, vahtimestari,
+tule täytä lasini,
+vie kuolleet phuksit pois! :,:
+:,: Ja jos mä kerran kuolen, 
+niin kilta pitää huolen, 
+ett’ Pokkamonttuun minut haudataan. :,:
+
+:,: Hei, vahtimestari, 
+tule täytä suoleni, 
+se onkin minun paras puoleni. :,:
+:,: Ja kun mä kerran kuolen,
+niin kilta pitää suolen,
+se vuosijuhlalahjaks’ annetaan. :,:
+
+---END---

@@ -1,0 +1,21 @@
+Title: Laulukilpailujulkaisulaulu
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hyvät ystävät
+Tags: Viralliset
+
+---LYRICS---
+
+Hyvät ystävät kilpailu alkaa
+Siinä on meillä kolmisen sarjaa
+:,: Aalto, yleinen ja AS
+joista kaikkiin osallistua saa :,:
+
+Hauska lauluja ompi laulaa
+Sekä uusia sanoituksia tuottaa
+:,: Vaikkei oiskaan Mylvarisarjaa
+Kyllä siitäkin laulaa saa :,:
+
+---END---

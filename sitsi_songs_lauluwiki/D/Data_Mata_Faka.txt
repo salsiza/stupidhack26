@@ -1,0 +1,26 @@
+Title: Data Mata Faka
+Category: D
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: DrakoMataFaka
+Tags: Ohjelmointilaulut Koulutuspoliittiset Aalto-laulut
+
+---LYRICS---
+
+Datamatafaka
+olin solussa yksin
+rakensin matriisin
+kun katsoin tulevaisuuteen
+GPU jumputti
+nyt datani on muuttunut
+ja Aaltoon pääsin tiedän sen
+
+DataMataFaka, FataMataData
+all alone in my home
+overalls: monochrome
+as I look into the future
+data I'm processing
+now my life has been altered
+
+---END---

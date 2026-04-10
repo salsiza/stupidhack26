@@ -1,0 +1,21 @@
+Title: Hyvät toiminnantarkastajat
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hyvät ystävät
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Hyvät ystävät tarkastus alkaa
+Pöytäkirjoja alamme tulkkaa
+:,: Myöskin tilejä saatetaan kurkkaa
+Meille huvin suo nillitys vaan :,: 
+
+Hauska kiltoja konkkaan on suistaa
+Siten hallitus asiat hoitaa
+:,: Yhteinen juomalaulumme luistaa
+tuhlausmieli on parhaimmillaan :,:
+
+---END---

@@ -1,0 +1,27 @@
+Title: Voi lutkut
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Voi vitjat
+Tags: Aalto-laulut
+
+---LYRICS---
+
+Haistakaatte huilu koko suunsoittokunta!
+Vanhat mouhot ensin ja ketkä hyljet' huus.
+
+Kun gongi minut petti ja IE minut jätti
+ja läsyjäkin satelee ja paskattaa.
+
+
+
+// Vaihtoehtoinen IE-versio:
+
+Haistakaatte huilu koko suunsoittokunta!
+Vanhat mouhot ensin ja ketkä hyljet' huus.
+
+Kun Culimix mut petti ja lukkar' minut jätti
+ja hyljelaulu raikaa ja itkettää.
+
+---END---

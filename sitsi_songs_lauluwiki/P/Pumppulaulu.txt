@@ -1,0 +1,34 @@
+Title: Pumppulaulu
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vesipoikien marssi
+Tags: Vesilaulut Aalto-laulut Viralliset
+
+---LYRICS---
+
+Pois se meistä, että täällä pumpattais
+noita pahan tuomia keskipakopumppuja.
+Vaikka taseet keltä täällä tutkittais,
+niin pumppu pumppaa vaan.
+Hurraa, me nuoret KeLa-pojat,
+pumput ehjinä on aina,
+kavitointi ei vaan paina.
+Hurraa me nuoret KeLa-pojat,
+meillä kalvopumput on!
+
+Laminaaristi kun aina etenee,
+putkissansa fluidi, vastuskin on pieni.
+Reynoldsin luku kertoo totuuden
+virtauksen luonteesta.
+Hurraa me nuoret …
+
+Paha perii huonon pumpun valkkauksen,
+sitä joskus tapahtuu,
+pumppu kavitoituu.
+Konelaisten palkkaus se johtaapi
+pumppujen turmioon.
+Hurraa me nuoret…
+
+---END---

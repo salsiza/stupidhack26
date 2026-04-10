@@ -1,0 +1,29 @@
+Title: oodi.aalto.fi/pämp
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Piippolan vaari
+Tags: Aalto-laulut
+
+---LYRICS---
+
+Teekkaripojalla oli tentti, hiiala hiiala hei!
+Mut unohti ja pämppäs lisää vaan, hiiala hiiala hei!
+Pämp-pämp siellä ja pämp-pämp täällä,
+siellä pämp, täällä pämp
+joka puolell' pämp-pämp, hiiala hiiala hei!
+
+Kylterillä oli oma firma, hiiala hiiala hei!
+mut konkkaan se meni kun pämppäs vaan, hiiala hiiala hei!
+Pämp-pämp siellä ja pämp-pämp täällä,
+siellä pämp, täällä pämp
+joka puolell' pämp-pämp, hiiala hiiala hei!
+
+Taikkilainen maalas' taulujansa, hiiala hiiala hei!
+Kun inspiksen sai pämppäämällä,
+Pämp-pämp siellä ja pämp-pämp täällä,
+siellä pämp, täällä pämp
+joka puolell' pämp-pämp, hiiala hiiala hei!
+
+---END---

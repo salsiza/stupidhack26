@@ -1,0 +1,27 @@
+Title: Otaonnelaan
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ukkometso
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Katto kallellaan siinä mäen päällä,
+seisoo vielä Smökki paikallaan.
+Kun ostoskeskuksen ohi kuljen, tiedän sen,
+kohta tullut oon Otaniemeen.
+
+Hei tarjoilija, tuokaa mulle kolpakko,
+yhtä kylmä niin kuin aina ennenkin.
+Mullon kova jano taas ja sitsit mielessä,
+en turhaan tullut oo Otaniemeen.
+
+:,: Otan Niemellä, maistan kielellä,
+jengi sitsaa lailla perkeleen.
+Ja kun kilta ottaa häppää,
+se heittää huonoo läppää,
+kaljaa koneeseen ja Otaniemeen :,:
+
+---END---

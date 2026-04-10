@@ -1,0 +1,17 @@
+Title: Yksijalkainen
+Category: Y
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: joku joululaulu
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Yksijalkaisena paikallaan.
+Pääni täynnä viinaa seistä saan.
+Arvaatko, jo kuka oon?
+Snapsilasi. Hii-o-hoo.
+Teeppä musta selvä!
+
+---END---

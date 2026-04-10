@@ -1,0 +1,16 @@
+Title: Varpunen jouluaamuna
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Varpunen jouluaamuna
+Tags: Muut laulut Interaktiiviset
+
+---LYRICS---
+
+Lumi on jo peittänyt kukat laaksosessa
+Järven aalto jäätynyt talvipakkasessa
+Varpunen pienoinen syönyt kesäeinehen
+Järven aalto jäätynyt talvipakkasessa.
+
+---END---

@@ -1,0 +1,46 @@
+Title: Helvetin C++
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Notre Damen Kellonsoittaja - Helvetin liekit
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Raimo Nikkilä, sen tiedät olen älykäs
+En teekookoolle muuten päässyt ois
+
+Raimo Nikkilä, sä tiedät, phuksi tupsuton
+ei koodiani korjaa millään vois
+
+Nyt kerro, Nikkilä, miksi koodi vammainen, polttaa konettani virheillään?
+Se piinaa, se riivaa, kun herjaa virheet ohjelman, ne vitutuksen mulle aikaan saa
+
+Nuo virheet, nuo perseet, on riveil joillakin
+tää paska, sen tiesin, vie tieni Maarille
+
+Ei syytäin lie, sai aikaan sen, tuo koodimies hän on tähän syyllinen
+Ei syytäin lie, vaan Nikkilän, kun liian vaikeaksi loi hän kurssin tän
+
+Nyt pyydän assaria, tää tehtäväni selkeytä
+Ja uusinnalta säästä kesääni
+Vie pois virherivit
+nyt ohjeillasi helvettiin
+ja olkoon toimivain
+tää koodi ain
+
+"Tupsuphuksi lollol. Deadlineä siirretty."
+"Mitä?!"
+"Se ei ole huomenna. Vaan tänään."
+"Mutta kuinka?! Sama se! Tänne, assari! Korjaan tämän, korjaan vaikka minun täytyisi soittaa Nikkilälle!"
+
+Nuo virheet, nuo perseet, nyt tunnet vuorostaan
+mua autat tai virheet
+mut vievät uusintaan!
+
+Assari mua auta
+Koodiani korjaa
+Kohta tää toimii tai vituttaa
+
+---END---

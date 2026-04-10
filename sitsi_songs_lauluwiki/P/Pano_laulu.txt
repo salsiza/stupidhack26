@@ -1,0 +1,17 @@
+Title: Pano laulu
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Tissit pillu tissit pillu. 
+Pimpero maistuu ja kukka myös
+aamulla alkaa pano työ. 
+Yhdessä näinkun nussiitaan valmiiksi saadan työt ajallaan.
+Nakki savuaa kortsu myös mälli lentää ja vaimo myös.
+ Lallal laa
+
+---END---

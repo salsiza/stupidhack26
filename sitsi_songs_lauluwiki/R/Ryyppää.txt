@@ -1,0 +1,28 @@
+Title: Ryyppää
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Ryyppää, ryyppää, ryyppää vaan,
+huomenna on sulla krapula.
+Mutt’ jos ryyppäät, ryyppäät,
+ryyppäät vaan,
+krapula ei saavukaan.
+
+Sorvaa - kapula
+kapulaa ei tulekaan.
+
+∇:aa - roottori
+roottori ei pyörikään.
+
+Tislaa - pontikkaa
+jäljelle jää etikkaa.
+
+Säädä - servopää
+servosäädin hajoaa.
+
+---END---

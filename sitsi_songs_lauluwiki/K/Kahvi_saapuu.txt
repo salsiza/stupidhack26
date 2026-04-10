@@ -1,0 +1,16 @@
+Title: Kahvi saapuu
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Punchen kommer
+Tags: Aveclaulut
+
+---LYRICS---
+
+Kahvi saapuu, kahvi saapuu, vilpoinen,
+läpi näkyy, makua mä maista en.
+Punssipullo tänne en mä selvin päin
+tätä litkuu aio juoda täällä näin.
+
+---END---

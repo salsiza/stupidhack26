@@ -1,0 +1,18 @@
+Title: Piae Cationes
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Trink, trink
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Juo, juo, veikkaa ja juo,
+kas ioneista puutetta ei!
+Juo, juo, veikkaus tuo,
+lyysisi neloseen (3, 2, 1, hylättyyn) vei:
+U, Se, Te, Cu, Bi, Mg!
+Ti, W, Mn, Ni, Zn, Be!
+
+---END---

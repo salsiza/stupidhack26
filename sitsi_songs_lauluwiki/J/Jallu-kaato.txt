@@ -1,0 +1,15 @@
+Title: Jallu-kaato
+Category: J
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Aveclaulut
+
+---LYRICS---
+
+Jallu, sen mä kaadan ineen.
+Jallu, meill' on yhden tähden bileet.
+Jallu, maksa puskee hikee.
+Jallu, Jallu, Jallu, Jallu.
+
+---END---

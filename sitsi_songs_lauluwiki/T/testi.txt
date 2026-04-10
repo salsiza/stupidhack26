@@ -1,0 +1,16 @@
+Title: testi
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Säädä säädä säädä vaan
+Tags: Krapulalaulut
+
+---LYRICS---
+
+Testaa testaa testaa vaan,
+Huomenna toimii sulla ohjelma.
+Mut jos testaat testaat testaat vaan,
+Bugit joudut korjaamaan.
+
+---END---

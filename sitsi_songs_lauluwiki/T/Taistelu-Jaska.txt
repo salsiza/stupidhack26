@@ -1,0 +1,30 @@
+Title: Taistelu-Jaska
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Taistelu-Jaska -tunnari
+Tags: Lastenlaulut Krapulalaulut
+
+---LYRICS---
+
+Tantaa raaraa Tantaa raaraa 
+Taistelu-Jaska
+Tantaa raaraa Tantaa raaraa 
+Taistelu-Jaska
+Tantaa raaraa Tantaa raaraa 
+Jaska-Jaska
+Tantaa raaraa Tantaa raaraa 
+Taistelu-Jaska
+Jaska-Jaska
+
+Taistelu-Jaska
+Tri triii di trii di trii
+Tri triii di trii di trii
+Taistelu-Jaska
+Jaska-Jaska
+Isä! Isä!
+Oi, Ai!
+Perrrkele.
+
+---END---

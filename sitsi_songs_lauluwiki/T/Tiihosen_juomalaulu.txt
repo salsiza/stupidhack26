@@ -1,0 +1,14 @@
+Title: Tiihosen juomalaulu
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Cheek-Voittaja
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Tulin voittamaan,
+En anna minkään seisoo
+
+---END---

@@ -1,0 +1,25 @@
+Title: Toti
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Suomen laulu
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Kuules kuinka lehmä ammuu,
+Väinämöinenkin jo sammuu.
+Laulu vodkan on, laulu vodkan on!
+:,: Kuumaa vettä sokeria,
+siihen vähän konjakkia.
+Se on totia, se on totia. :,:
+
+Kun on saanut hieman viinaa,
+tekee mieli saada lisää.
+Se on humala, se on humala!
+:,: Särkee päätä särkee niskaa,
+kaiken ruuan ylös viskaa.
+Se on krapula, se on krapula!:,:
+
+---END---

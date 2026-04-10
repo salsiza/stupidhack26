@@ -1,0 +1,37 @@
+Title: Minnet
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Cats - Memory
+Tags: Ohjelmointilaulut
+
+---LYRICS---
+
+Minne! Jag har tappat mitt minne!
+Är jag svensk eller finne?
+Kommer inte ihåg ...
+
+Inne! Är jag ut eller inne?
+Jag har luckor i minne,
+sån'där små alkohol.
+
+Men besinn'er, man tätar med
+det brännvin man får,
+fasän minnet och helan går.
+
+
+
+Minne? Muisti hävis', mutt' minne?
+Juhlista selvisimme
+- muistikatkoja on.
+
+Minne? Lähtisin vaikka minne,
+kunhan selvittäisimme
+mitä tapahtunut on
+
+Mutta tiedän mä keinon
+mikä auttaapi tuo:
+ota ryyppy, ja muistis' juo!
+
+---END---

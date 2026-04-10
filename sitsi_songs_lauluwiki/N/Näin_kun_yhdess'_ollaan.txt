@@ -1,0 +1,19 @@
+Title: Näin kun yhdess' ollaan
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Englantilainen kansanlaulu
+
+---LYRICS---
+
+Hei, näin kun yhdess' ollaan, 
+hei, ollaan, hei ollaan 
+ja häppä nousee pollaan, 
+niin tullaan tuttaviks.
+On minun kaverini sinun kaveris
+ja teidän kaverit on meidän kaverit.
+Näin kun yhdess' ollaan,
+niin tullaan tuttaviks.
+
+---END---

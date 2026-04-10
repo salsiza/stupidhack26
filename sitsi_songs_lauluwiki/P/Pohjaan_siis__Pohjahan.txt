@@ -1,0 +1,26 @@
+Title: Pohjaan siis / Pohjahan
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Helan går
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Solo:
+Yks' aivan pieni peipponen,
+Se istui oksallaan.
+Ja koko päivän kaunoisen,
+Se lauloi lauluaan.
+
+"No mitä se peipponen lauloi?"
+
+Kaikki:
+Pohjahan, hei veikot juodaan malja tää,
+Pohjahan, hei veikot malja tää.
+Ken ei ryyppää pohjahan,
+Ei saa ottaa tippaakaan.
+Pohjahan, hei veikot, malja tää.
+
+---END---

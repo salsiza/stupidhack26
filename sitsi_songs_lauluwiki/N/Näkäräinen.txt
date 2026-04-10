@@ -1,0 +1,15 @@
+Title: Näkäräinen
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hämä-hämähäkki
+
+---LYRICS---
+
+Näkä-näkäräinen pöytään tuli, hei!
+Jano tuli kova, se näkäräisen vei.
+Kurkkuun kuivaan pojat lasin kaas,
+näkä-näkäräinen pöytään tuli taas.
+
+---END---

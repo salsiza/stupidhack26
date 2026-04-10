@@ -1,0 +1,14 @@
+Title: Pienet konjakit
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pienet sammakot
+Tags: Aveclaulut
+
+---LYRICS---
+
+:,: Pienet konjakit, pienet konjakit, ne lystikkäitä ois! :,:
+:,: Ei korvia, ei korvia, ei häntää laisinkaan. :,:
+
+---END---

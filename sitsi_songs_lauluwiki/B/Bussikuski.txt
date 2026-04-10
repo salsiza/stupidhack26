@@ -1,0 +1,26 @@
+Title: Bussikuski
+Category: B
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Täti Monika
+Tags: Muut laulut Lastenlaulut Muut teekkarilaulut
+
+---LYRICS---
+
+1 On meillä hauska setä nyt bussikuskina.
+Kun setä ajaa bussia, on näky komia.
+Kas näin heiluu bussi ja bussi heiluu näin.
+Kas näin heiluu bussi ja bussi heiluu näin.
+
+2 ... Kas näin kaatuu tolppa ...
+
+3 ... Kas näin lentää mummo ...
+
+4 ... Kas näin kuolee kissa ...
+
+5 ... Kas tuolla näkyy tutka...
+
+6 ... Kas näin vietiin kuski...
+
+---END---

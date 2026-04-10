@@ -1,0 +1,12 @@
+Title: Huomenna mennään rajan taa!
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Huomenna mennään rajan taa, Ruotsista tehdään siirtomaa. Naiset ja lapset raiskataan, ne napalmilla poltetaan. Verta ja suolen pätkiä, niistä me käärimme sätkiä
+
+---END---

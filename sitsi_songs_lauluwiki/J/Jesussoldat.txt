@@ -1,0 +1,16 @@
+Title: Jesussoldat
+Category: J
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Interaktiiviset
+
+---LYRICS---
+
+Jag är inte med i infanteriet,
+kavalleriet,
+artilleriet.
+Jag är inte med i flyget,
+för jag är en Jesus soldat!
+
+---END---

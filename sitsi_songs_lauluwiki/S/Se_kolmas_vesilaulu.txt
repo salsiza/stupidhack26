@@ -1,0 +1,25 @@
+Title: Se kolmas vesilaulu
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: La Donna È Mobile
+Tags: Vesilaulut
+
+---LYRICS---
+
+Vettä kun juoda saa,
+se voipi pelastaa:
+ei iske känni,
+ei ala ränni.
+Vesi on herkkua,
+kostuttaa kurkkua.
+Ei tarvii dokata,
+eikä voi mokata.
+
+Raitis on olo,
+ei keuli mopo.
+Aamulla ei--
+ole krapulaa.
+
+---END---

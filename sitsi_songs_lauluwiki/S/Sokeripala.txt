@@ -1,0 +1,20 @@
+Title: Sokeripala
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sokeripala, Olavi Virta
+Tags: K18
+
+---LYRICS---
+
+Oi jos oisit kultaseni  
+pieni varpunen,  
+perseeseen sua nussisin  
+mä rasvaa käytä en!  
+Kahtia sä halkeaisit  
+jos en sua mä teippais,  
+kun mun suuri ryhmysauva  
+kahtia sut leikkais.
+
+---END---

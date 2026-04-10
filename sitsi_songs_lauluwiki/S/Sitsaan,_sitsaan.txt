@@ -1,0 +1,27 @@
+Title: Sitsaan, sitsaan
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Kari Tapio - Joulun Kellot
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Sitsaan, sitsaan, gongi taasen kajahtaa
+Lukkaritkin yrittää, jotain tuolla selittää
+Ilta jatkuu vaan
+
+Sitsaan, sitsaan, gongi taasen kajahtaa
+Joku ulos kannetaan, syytä en tiedä ollenkaan
+Ilta jatkuu vaan
+
+Sitsaan, sitsaan, gongi taasen kajahtaa
+Viimein ruokaa pöytään saan, kohta kylmää tietty taas
+Ilta jatkuu vaan
+
+Sitsaan, sitsaan, gongi taasen kajahtaa
+Jatkot pääsee alkamaan, joku vessaan oksentaa
+Ilta jatkuu vaan
+
+---END---

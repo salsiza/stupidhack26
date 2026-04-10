@@ -1,0 +1,24 @@
+Title: Meidän tarjoilija
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Funiculi funicula
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+:,: No missäs meidän tarjoilija viipyy?
+Sais’ tulla jo, sais tulla jo. :,:
+Muuten meillä kurkku tässä kuivuu.
+:,: Se kuivuu jo. :,:
+Ja huonosti tää juhla silloin päättyy.
+:,: Se päättyy jo. :,:
+
+Tarjoilija, riennä tänne jo!
+Tarjoilija, lennä tänne jo!
+Niin että pontikkaata tänne tuodaan,
+viinaa juodaan jo!
+Oi, sä meidän tarjoilija kipasepa tänne jo!
+
+---END---

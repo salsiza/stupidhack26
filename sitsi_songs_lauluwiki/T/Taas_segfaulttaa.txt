@@ -1,0 +1,62 @@
+Title: Taas segfaulttaa
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Indica - Ikuinen virta
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Mun virheet vähenee
+ja varoitukset hälvenee
+kun tarpeeks debuggailee
+Yhtään muistii ei jää
+mitä voisi menettää
+kun valgrindii jyystää
+Mä ohjelmaani teen
+viikosta toiseen
+C-kurssin käyn uudelleen
+Ja aina uudestaan
+uusi kierros avataan
+ja sitten taas koodataan
+
+Entä jos sitseillä aasinsilta
+pitkäksi venyy kuten keväinen ilta
+Entä jos koodaankin aamusta iltaan
+tervetuloa violettiin kiltaan
+olishan se kivaa jos olisikin maini
+mutta enhän minä tässä sellaista tarvi
+anteeksi assari rauhaasi vaivaan
+miks ihmees' tää taas segfaulttaa
+
+Kunnes vihdoin loppuu tää
+ei voi edes ymmärtää
+Miten tentistä läpi pääs'
+Vaan sittenpä sä saat
+vääntää ceeplusplussaa
+Ja taas hajottaa
+
+Entä jos sitseillä aasinsilta
+pitkäksi venyy kuten keväinen ilta
+Entä jos koodaankin aamusta iltaan
+tervetuloa violettiin kiltaan
+olishan se kivaa jos olisikin maini
+mutta enhän minä tässä sellaista tarvi
+anteeksi assari rauhaasi vaivaan
+miks ihmees' tää taas segfaulttaa
+
+Entä jos sitseillä aasinsilta
+pitkäksi venyy kuten keväinen ilta
+Entä jos koodaankin aamusta iltaan
+tervetuloa violettiin kiltaan
+olishan se kivaa jos olisikin maini
+mutta enhän minä tässä sellaista tarvi
+anteeksi assari rauhaasi vaivaan
+miks ihmees' tää taas segfaulttaa
+
+taas segfaulttaa
+
+taas segfaulttaa
+
+---END---

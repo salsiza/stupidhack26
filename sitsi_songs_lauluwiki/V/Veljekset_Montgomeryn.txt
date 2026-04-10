@@ -1,0 +1,26 @@
+Title: Veljekset Montgomeryn
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Yl kasteisten vuorten
+
+---LYRICS---
+
+1.
+Kai muistatte veljekset Montgomeryn,
+he kaatoivat kahvinsakin konjakkihin.
+Mut tarjositpas vettä,
+he karjahtivat, että:
+– Se polvihimme menee,
+viekää hemmettihin!
+
+2.
+Kai muistatte veljekset Montgomeryn,
+he kaatoivat kahvinsakin konjakkihin.
+Mut tarjositpas vettä,
+he karjahtivat, että:
+– Se ruostuttaapi kaiken,
+viekää hemmettihin!
+
+---END---

@@ -1,0 +1,13 @@
+Title: kurwa jebany
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: kurwa kurwa
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+kurwa kurwa kurwa kurwa kurwa
+
+---END---

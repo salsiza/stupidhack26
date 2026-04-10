@@ -1,0 +1,29 @@
+Title: Sahtilaulu
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Son ar chistr
+Tags: Olutlaulut
+
+---LYRICS---
+
+:,: Oi ihmislapset - te kuunnelkaa, 
+kun teille lapset soittaa maan. :,: 
+:,: On kevyt askel, vie mukanaan,
+kun kutsuu rannalle, 
+tuo soitto loitto kutsuu rannalle tanssimaan. :,:
+
+:,: On kesä viimein - se juovuttaa,
+ei kenkään kaamosta muistakaan. :,: 
+:,: Näin mahla kahleensa kirvoittaa,
+se virtaa valloillaan,
+saa vaisunkin raisuksi rannalle tanssimaan. :,:
+
+:,: On saatu sahti - se vahvistaa,
+ja jalkain tahtia kannustaa. :,:
+:,: Ei ykskään vahtia toista saa!
+On mahti maltaalla,
+soi viulu, kiulu kiertää, yhdessä tanssitaan. :,:
+
+---END---

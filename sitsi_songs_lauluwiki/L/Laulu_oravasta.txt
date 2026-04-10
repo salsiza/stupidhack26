@@ -1,0 +1,34 @@
+Title: Laulu oravasta
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Makeasti oravainen
+makaa sammalhuoneessansa;
+sinnepä ei Hallin hammas
+eikä metsämiehen ansa
+ehtineet milloinkaan.
+
+Kammiostaan korkeasta
+katselee hän mailman piirii,
+taisteloa allans' monta;
+havu-oksan rauhan-viiri
+päällänsä liepoittaa.
+
+Mikä elo onnellinen
+keinuvassa kehtolinnas
+Siellä kiikkuu oravainen
+armaan kuusen äitinrinnas:
+Metsolan kantele soi
+
+Siellä torkkuu heiluhäntä
+akkunalla pienoisella,
+linnut laulain taivaan alla
+saattaa hänen iltasella
+unien Kultalaan.
+
+---END---

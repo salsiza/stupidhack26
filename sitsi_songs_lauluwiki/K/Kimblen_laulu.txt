@@ -1,0 +1,27 @@
+Title: Kimblen laulu
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Krapula
+Tags: Serenadit
+
+---LYRICS---
+
+Kuule kuinka kupu naksuu
+Peli aamuyössä jatkuu
+Laulu kimblen on, laulu kimblen on
+
+Ajaa tuplaa ajaa triplaa
+Bufferia tyhjäks ei saa
+Se on kimbleä, se on kimbleä
+
+Joku meinaa kohta voittaa
+Korotusta kaikki koittaa
+Laulu kimblen on, laulu kimblen on
+
+Kärki ajaa kohti miinaa,
+"IE, tuokaa lisää viinaa"
+Se on kimbleä, se on kimbleä
+
+---END---

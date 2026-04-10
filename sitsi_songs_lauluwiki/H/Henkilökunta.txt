@@ -1,0 +1,25 @@
+Title: Henkilökunta
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Viralliset
+
+---LYRICS---
+
+:,:Henkilökuntaa, henkilökuntaa, parlevuu:,:
+Henkilökuntaa, henkilökuntaa,
+henkilökuntaa, henkilökuntaa.
+:,:Henkilökuntaa parlevuu:,:
+
+Lissää viinaa ...
+
+Konjakki ois poikaa ...
+
+Kaljakin kelpaa ...
+
+Fuksit kuolee ...
+
+Vanhat jaksaa ...
+
+---END---

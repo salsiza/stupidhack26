@@ -1,0 +1,17 @@
+Title: Sukuelin
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: K18
+
+---LYRICS---
+
+Äitini taksa on kymppi,
+siskoni viisimarkkanen,
+isäni on aikamoinen sonni,
+itse vasta harjoittelen.
+
+Ai-jai-jai, SUKUELIN!
+
+---END---

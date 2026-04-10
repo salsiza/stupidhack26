@@ -1,0 +1,16 @@
+Title: Jaloviinaa Dallasissa
+Category: J
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Dallaksen alkutunnari
+Tags: Aveclaulut
+
+---LYRICS---
+
+Jaloviinaa yhden tähden
+lisää huudetaan!
+Kurkkuun asti koko lasti
+kerralla huitaistaan!
+
+---END---

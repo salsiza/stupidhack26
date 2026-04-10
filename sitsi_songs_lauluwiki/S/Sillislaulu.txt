@@ -1,0 +1,21 @@
+Title: Sillislaulu
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Antaudun
+Tags: Krapulalaulut
+
+---LYRICS---
+
+Jurrissa oon, nyt aamullakin
+Herätä mut jos mä sammun
+Kai joku lämmittänyt on paljun
+Skumppapullosta mä ilahdun
+Kännissä oon niin kauan kuin 
+Lopullisesti sammun
+Jos kaipaan saunaan, mä riisuudun.
+Sä haluut kaljaa, mä absintin
+Sä haluut kaljaa, mä absintin
+
+---END---

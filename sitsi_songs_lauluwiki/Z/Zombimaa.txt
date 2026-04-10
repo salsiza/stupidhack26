@@ -1,0 +1,26 @@
+Title: Zombimaa
+Category: Z
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Joulumaa
+Tags: Muut laulut
+
+---LYRICS---
+
+Zombimaassa hallitsee epäkuolleiden kansa,
+Sinne saattaa päästä jos vain nousee haudastansa
+Selviytyjä katsoo kauas horisonttiin mustaan
+Toivo kuoli kauan sitten, eessä on vain tuskaa
+
+Kuten suola-aavikolla, tääl ei kasva mikään
+Niin kuin sotatantereella vain kuolema itää
+Aivot maistuu zombeille kuin kypsä kinkkupalvi
+Aurinko on pimennyt, kun nyt on ydintalvi
+
+Zombimaasta selviytyjä löytää kaikenlaista
+Tuhoutuneet kaupungit, on niissä aavemaista
+Käsivarttani tais joku kuollut makustella
+Kohta voin jo huoletta aivosi napostella
+
+---END---

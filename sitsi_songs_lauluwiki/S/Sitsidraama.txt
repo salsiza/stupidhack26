@@ -1,0 +1,22 @@
+Title: Sitsidraama
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Tiktak - Sankaritar (kertosäe)
+Tags: Krapulalaulut Viinilaulut
+
+---LYRICS---
+
+Mä näen uuden valkkarikaadon
+sitä mun tyhjään lasiini tahdon.
+Ja lukkarit lyö gongia jälleen,
+kun humaltuu on helpompi sitsata.
+
+Mä muistan tyhjät viinapullot,
+pahimman vastustajani tiedän.
+Eilisen itsestäni sen löydän,
+miks pystynyt en lopettamaan,
+mä kiroon darrassa taas.
+
+---END---

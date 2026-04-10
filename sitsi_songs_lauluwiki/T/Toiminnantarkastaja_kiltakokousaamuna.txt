@@ -1,0 +1,21 @@
+Title: Toiminnantarkastaja kiltakokousaamuna
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Varpunen jouluaamuna
+Tags: Viralliset
+
+---LYRICS---
+
+Rahis on jo lähtenyt,
+Bahamalle piiloon,
+Killan tili on jäätynyt, 
+Nolla euroo hilloo
+
+Toiminnantarkastaja, 
+Huutaa: puheenjohtaja! 
+Tästä kulukorvauksesta,
+Puuttuu kuitteja
+
+---END---

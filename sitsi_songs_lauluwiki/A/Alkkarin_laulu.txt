@@ -1,0 +1,43 @@
+Title: Alkkarin laulu
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ystävän laulu
+Tags: Olutlaulut
+
+---LYRICS---
+
+Mistä tunnet sä teekkarin,
+tupsupäisen ihmisen?
+Annan yhtälön selvittää,
+kelle ratkeaa tää.
+Niin hän funktion derivoi,
+sulle ratkaisun ohjelmoi.
+Kuvaajankin viel' piirtää hän.
+Toteat: "Ymmärrän!"
+
+Mistä tunnet sä kylterin,
+Viher'haalari -kaverin?
+Anna markkinan selvittää,
+kuka voitolle jää.
+Vaikka taantumas' investoi,
+hän se nostaa vain osinkoi'.
+Firmansa kun näin saavuttaa,
+monopoliaseman.
+
+Mistä tunnet sä taikkilaisen,
+niin valtavan erilaisen?
+Anna muodon nyt selvittää,
+ketä tottelee tää.
+Kun on ideat skissattu,
+ja proto rakennettu.
+Hän vision esittää,
+se saa pyörälle pään.
+
+Siitä tunnet sä Alkkarin,
+Otaniemen kasvatin.
+Laajalahden rannast' lie
+lähtenyt sen tie.
+
+---END---

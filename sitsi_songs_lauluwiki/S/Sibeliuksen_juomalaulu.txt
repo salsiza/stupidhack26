@@ -1,0 +1,14 @@
+Title: Sibeliuksen juomalaulu
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sibelus: Kullervo (osa III)
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Kullervo, Kalervon poika,
+tempasi terävän!
+
+---END---

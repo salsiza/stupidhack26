@@ -1,0 +1,25 @@
+Title: Snapsitanssi
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pingviinitanssi
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Kohta on juhlakansa mielissään.
+Juhlia voi jo pikkupienissään.
+Nytpä kiskasen, kylmän koskiksen!
+
+Yykaakoo, yykaakoo!
+Turpa kiinni, juodaan jo!
+Neeviikuu, neeviikuu!
+Uutta pöytään, kuivaa suu!
+
+Rairairai rairairai!
+Lallallallallallallaa!
+Piippiippiip piippiippiip!
+Lallallallallallallaa!
+
+---END---

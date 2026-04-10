@@ -1,0 +1,35 @@
+Title: Häppämarssi
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: prinsessa Ruususen marssi
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Antakaa
+keppanaa.
+Kaljan laatu tuskin kiinnostaa.
+Sillä tahtoisin itseni kanveesiin juovuttaa.
+Sit, kun sammun, pois mut kantakaa.
+
+Maistanpa
+kiljua.
+Varmaan viikon annoin pulputtaa.
+Sillä tahtoisin tunnelmaa eilistä elvyttää.
+Päivän humalalle pyhittää.
+
+Mut jos tarpeeksi kittaa saan,
+en siitä enää nautikaan.
+Yksin viina maistu lain,
+siitä tarpeekseni sain
+myötä kokemuksen arvokkaan.
+
+Hehkuaa
+mun lasissa
+hieno punaviini Ranskasta. 
+Sillä tahtoisin pyötyeseuraani mä valistaa:
+Oppikaa nyt vittu dokaamaan.
+
+---END---

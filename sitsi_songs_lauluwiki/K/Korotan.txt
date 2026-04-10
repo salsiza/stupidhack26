@@ -1,0 +1,16 @@
+Title: Korotan
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Odota- Aikakone
+
+---LYRICS---
+
+Korotan, siksi karkuun juoksen nyt varoen
+(aaaaa-aa-a-a)
+Naksautin, tähän miinaruutuun nyt hajosin
+(aaaaa-aa-a-a)
+X2
+
+---END---

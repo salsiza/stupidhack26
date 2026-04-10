@@ -1,0 +1,12 @@
+Title: F
+Category: F
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+f
+
+---END---

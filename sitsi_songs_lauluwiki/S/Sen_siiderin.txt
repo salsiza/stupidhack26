@@ -1,0 +1,16 @@
+Title: Sen siiderin
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Sen siiderin, sen siiderin,
+sen siiderin kumoon imen.
+Viskaan helttaani mä sen,
+kaljaa vihaan -
+viskaan taas kulkkuun sen!
+
+---END---

@@ -1,0 +1,17 @@
+Title: Neuvosto
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Eurovision
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Venäjällä totellaan Putinia
+Ruotsissa kunkkua
+Venäjällä Trumppia
+Mut Otaniemes' totellaan Neuvostoa
+Siis rahaa mulle antakaa
+
+---END---

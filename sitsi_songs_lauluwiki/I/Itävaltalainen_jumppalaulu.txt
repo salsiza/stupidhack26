@@ -1,0 +1,22 @@
+Title: Itävaltalainen jumppalaulu
+Category: I
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pää olkapää peppu
+Tags: K18
+
+---LYRICS---
+
+:,:Pää, olkapää, katto.
+Olkapää, katto,
+olkapää katto!:,:
+
+Seiso suoraan
+ja kattoo osoita!
+
+Pää, olkapää, katto.
+Olkapää, katto,
+olkapää katto!
+
+---END---

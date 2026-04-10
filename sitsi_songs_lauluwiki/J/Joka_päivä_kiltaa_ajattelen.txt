@@ -1,0 +1,41 @@
+Title: Joka päivä kiltaa ajattelen
+Category: J
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Joka päivä ja joka ikinen yö - Eppu Normaali
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Meillä on kiltamme
+ja phuksit sen
+Teille mä laulan
+Ja te kuulette sen
+
+Ja kuitenkin kanssasi
+koen niin paljon iloja
+Vaikka vuoksesi kossua joisin
+mä lihon monta kiloa
+
+Joka päivä ja jokaikinen yö
+Sinua ajattelen
+Joka päivä ja jokaikinen yö
+koodi segfaulttia lyö
+
+ASkimme on kaunis
+Vaikka sotkuinen
+ASkivahtikin
+sanoo siivoo en
+
+Tunnen olevani lähelläsi
+Vaikka kaukana oisinkin
+Tartu käteen niin vien sut
+tuohon kiltaan violetin
+
+Joka päivä ja jokaikinen yö
+Sinua ajattelen
+Joka päivä ja jokaikinen yö
+koodi segfaulttia lyö
+
+---END---

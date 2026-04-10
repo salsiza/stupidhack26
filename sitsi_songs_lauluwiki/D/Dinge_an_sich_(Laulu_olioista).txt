@@ -1,0 +1,45 @@
+Title: Dinge an sich (Laulu olioista)
+Category: D
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Laulu asioista
+Tags: Muut laulut
+
+---LYRICS---
+
+Mikä on yhteistä jonolle, taulukolle ja luokalle?
+Entäpä mitä on pino ja poikkeus?
+Olioitapa tietenkin ovat ne.
+
+Mikä kumma on hakupuu?
+Tuo noodeista tehty
+hassu oliohan se on,
+ja logaritminen.
+Ja abstrakti olio taas on joukko.   
+
+Olioita on kaikki hajautustaulut,
+ja merkkijonokin on olio.
+Muita olioita ovat lista ja vektori.
+
+Java onpi olioita pullollaan.
+
+--
+
+Mikä on yhteistä opikselle, isännälle ja emännälle?
+Entäpä mitä ovat rahis ja tiedottaja?
+Hallitusvirkoja tietenkin ovat ne.
+
+Mikä kumma on YSV?
+Tuo kirjainlyhenne
+hassu virkahan se on,
+ja vuoden kestävä.
+Ja abstrakti virka taas on sädis.   
+
+Virka se on myöskin suurphuksi,
+ja ulkomestarikin on virka.
+Muita virkoja ovat puhis ja sihteeri.
+
+Hallitus onpi virkoja pullollaan.
+
+---END---

@@ -1,0 +1,17 @@
+Title: Kemmahymni
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Se oikea hymni
+
+---LYRICS---
+
+Yö kuin sielu kemistin on pimiä,
+Hapan aine syövyttää, syövyttää.
+PH-arvo hyvin korkea,
+tuntuu lipeältä, NaOH.
+Ja taas, ja siis,
+Ja yks kaks kolme neljä viisi.
+
+---END---

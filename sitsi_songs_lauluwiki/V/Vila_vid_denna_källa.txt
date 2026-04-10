@@ -1,0 +1,27 @@
+Title: Vila vid denna källa
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vila vid denna källa
+Tags: Viinilaulut
+
+---LYRICS---
+
+Vila vid denna källa!
+Vår lilla frukost vi framställa:
+rött vin med pimpinella
+och en nyss skjuten beckasin.
+Klang, vad buteljer, Ulla!
+I våra korgar, överstfulla,
+tömda i gräset rulla,
+och känn vad ångan dunstar fin!
+Ditt middagsvin,
+sku vi ur krusen hälla
+med glättig min.
+Vila vid denna källa,
+hör våra valthorns klang, kusin!
+(corno con b.ch.)
+Valthornens klang, kusin!
+
+---END---

@@ -1,0 +1,21 @@
+Title: Bulevardi
+Category: B
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Telefooni afrikassa
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Bulevardi polysteekkiin menotie on suora
+Aina siellä käveleepi joku vanha ihminen
+Häntä pannaan toiseen korvaan, toinen kärsää käyttää
+Tämä uusi telefooni kaikki toiveet täyttää
+
+*/ueai oyeeii eoie o uoa
+ia ieä äeeei ou ana iie
+ää aaa oiee oaa, oie äää äyää
+ää uui eeooi aii oiee äyää */
+
+---END---

@@ -1,0 +1,23 @@
+Title: Vesihenkilöiden marssi
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vesipoikien marssi
+Tags: Vesilaulut
+
+---LYRICS---
+
+Pois se meistä, että täällä käytettäis' 
+noita pahantuomia sukupuolirooleja.
+Vaikka kuinka genitaalit näytettäis'
+meillä tasa-arvo on.
+
+Hurraa me nuoret vesihenkilöt!
+Tarpeeksi kun jostain suuttuu, 
+saattaa laulun sanat muuttuu.
+Hurraa me nuoret vesihenkilöt! 
+Näin me hauskuus poistetaan,
+VITTU!
+
+---END---

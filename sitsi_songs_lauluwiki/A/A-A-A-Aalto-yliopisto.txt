@@ -1,0 +1,19 @@
+Title: A-A-A-Aalto-yliopisto
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ko-ko-ko-koskenko-ko-ko-korvaa
+Tags: Muut laulut
+
+---LYRICS---
+
+A-A-A-Aalto-yliopisto, sieltä 
+aina kunnon välimerkit saa! 
+A-A-A-Aalto-yliopisto, sieltä 
+aina kunnon ?:t 
+aina kunnon !:t 
+aina kunnon ":t 
+saa!
+
+---END---

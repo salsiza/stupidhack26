@@ -1,0 +1,20 @@
+Title: Vitkuttelematta
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: K18
+
+---LYRICS---
+
+:,:Eikä siellä vintillä vitkasteltu,
+siellä oli repäisevä meininki.:,:
+:,:Isä pani äitiä, veli pani siskoa,
+minä panin kissaa pankolla:,:
+
+:,:Isä pani äitiä kahvinkeittoon,
+veli pani siskoa nukkumaan.:,:
+:,:Minä panin kissaa uuninpankolla
+uusia rottia jahtaamaan:,:
+
+---END---

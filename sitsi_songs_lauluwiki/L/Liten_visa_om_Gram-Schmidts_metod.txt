@@ -1,0 +1,27 @@
+Title: Liten visa om Gram-Schmidts metod
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hämähämähäkki
+Tags: Muut laulut
+
+---LYRICS---
+
+Ta en delrumsbas M
+
+och en vector a
+
+Projisera ner
+
+ta dess residual
+
+Normalisera
+
+tillför den till M
+
+Ta sen nästa vector
+
+börjä om igen.
+
+---END---

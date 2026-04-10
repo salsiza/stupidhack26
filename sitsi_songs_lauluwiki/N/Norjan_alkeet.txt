@@ -1,0 +1,18 @@
+Title: Norjan alkeet
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Fröbelin Palikat - Jumppalaulu
+Tags: Lastenlaulut
+
+---LYRICS---
+
+:,: Gin, tequila, rommi,
+    lisää kaljaa, lisää kaljaa :,:
+
+Sormet kurkkuun, näin norjaa lausutaan!
+Gin, tequila, rommi,
+lisää kaljaa, lisää kaljaa!
+
+---END---

@@ -1,0 +1,14 @@
+Title: Raittiuslaulu
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Pois ottakaa tää moska!
+Se pahasta on, koska
+voi siitä juopua.
+
+---END---

@@ -1,0 +1,33 @@
+Title: Laulu Hallituksesta
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Punakaartin marssi
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Hallitus on vankka,
+kätyrlauma sankka,
+tutkimatta tuomio ja hirttäminen,
+eihän taiston tuoksinassa, 
+tiedä kump' on voittamassa,
+vallankumous vaiko taantumus.
+
+Byrokraatit kuolevat,
+helvetit ja tuonelat,
+avaavat jo porttinsa yl'
+onnettoman maan.
+Siellä murhanhenget saavat,
+sydänverta janoavat, 
+särpiellä hurmejuomaa kera korppien.
+
+Mannerheimi vankka, 
+kävelee kuin ankka, 
+rinta on kuin romukaupan näyteikkuna.
+Posket niinkuin ryssänlimput,
+silmät niikuin siankinkut,
+nenä on kuin porvariston vaatehenkari.
+
+---END---

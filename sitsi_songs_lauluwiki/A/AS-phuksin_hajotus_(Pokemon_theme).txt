@@ -1,0 +1,39 @@
+Title: AS-phuksin hajotus (Pokemon theme)
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pokemon theme
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Mä näen sen jo piirtyvän käyrän näytölläin
+Uutta säätöö yritän, ja aivan väärin päin.
+Kanssa googlehakujen etsin aina vaan
+Ja säätölaitteen jokaisen mä joudun koittamaan
+
+Säädetään! Parametreja arvaillaan (Kuin muutenkaan?)
+Iteroimalla koitetaan
+Säädetään! Juuriuran kuvaajaa 
+kun vain oppis tuntemaan
+Säädetään! Simulointia survotaan! (Jos osataan!)
+Mutten tajua kuitenkaan!
+Palautteessa vittuillaan,
+Säädetään. Siihen hajotaan, siihen hajotaan!
+
+Includeja tuijotan, ja define-hepreaa
+Editorin väreistä saan epilepsiaa.
+Keskustelupalstoilta copypastea
+Mut eipä sillä kääntäjää nyt saa kuin vinkumaan.
+
+Koodataan! Muistivuotoihin hajoaa! (Taas segfaulttaa!)
+Valgrindille kiroillaan.
+Koodataan! Tupla-pointteriin
+loppui ymmärrykseni
+Koodataan! Irkis assarii kiusataan! (Jos kehdataan!)
+Mutten tajua kuitenkaan!
+Palautteessa vittuillaan.
+Koodataan. Siihen hajotaan, Siihen hajotaan!
+
+---END---

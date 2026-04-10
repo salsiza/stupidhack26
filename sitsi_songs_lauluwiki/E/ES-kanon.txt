@@ -1,0 +1,16 @@
+Title: ES-kanon
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Olutkaanon
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Megaforce,
+Rodeo,
+Red bull ja ES,
+Battery
+
+---END---

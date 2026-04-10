@@ -1,0 +1,51 @@
+Title: Muovinen lapsuus
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Jos sull' lysti on
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+;.; Jos sun isis lyö niin ole ihan hys ;.;
+Mut jos alkaa tulla verta
+Sano et on eka kerta
+Jos sun isis lyö niin ole ihan hys
+
+;.; Jos sun äitis juo niin ole ihan hys ;.;
+Jos se sammuu lattialle
+Laita sille patja alle
+Jos sun äitis juo niin ole ihan hys
+
+;.; Jos setäs hiplailee niin ole ihan hys ;.;
+Mut jos alkaa tulla verta
+Sano et on eka kerta
+setäs hiplailee niin ole ihan hys
+
+;.; Jos tätis asuu naisen kanssa ole hys ;.;
+Vaik' heiluttelis lakanoita
+Eivät ole lepakoita
+tätis asuu naisen kanssa ole hys
+
+;.; Jos veljes vetää kamaa ole ihan hys ;.;
+Heroiinii suoneen pisti
+Ei se ole mikään nisti
+veljes vetää kamaa ole ihan hys
+
+;.; Jos serkut tykkää toisistansa ole hys ;.;
+Hyvät geenit lahjaks saivat
+Siksi toisiansa naivat
+serkut tykkää toisistansa ole hys
+
+;.; Jos kellarissas asuu lapsi ole hys ;.;
+Vaikka kuuluis korkee huuto
+Kysees' lienee putkivuoto
+kellarissas asuu lapsi ole hys
+
+;.; Jos siskos kertoo vauvan kuolleen ole hys ;.;
+Kauheen söpö pikku arkku
+Sinne meni vamma-Markku
+siskos kertoo vauvan kuolleen ole hys
+
+---END---

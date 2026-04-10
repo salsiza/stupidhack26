@@ -1,0 +1,20 @@
+Title: Sillisjäbä
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pas de quatre
+Tags: Krapulalaulut
+
+---LYRICS---
+
+Sillikselle hän saapui vielä
+Puoliks' torkkuen
+Siellä hän makasi melkein
+pelkkää skumppaa siemaillen
+Absinttia ja mimosaa
+hän joi lisää vaan
+kas, keskiyölläkin
+makoilee vielä paljussa
+
+---END---

@@ -1,0 +1,16 @@
+Title: Zyklon-B
+Category: Z
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: IT-mies
+Tags: K18
+
+---LYRICS---
+
+:,: Zyklon, Zyklon-B
+Olet kuolema varma
+Zyklon, Zyklon-B
+Hoidat hommat hyvin, mutta hiljaa :,:
+
+---END---

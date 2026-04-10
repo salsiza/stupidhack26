@@ -1,0 +1,22 @@
+Title: Hullu Tutalainen
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hullu kirvesmies (Budabestin Yössä)
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Tehtaalla kun tutalainen vallan saa
+hän ulkoistaa sen merten taa.
+Siellä missä orjatyötä tehdä saa
+ja verokin on alhaisin.
+
+;.;Nauraen hän kenkää heilauttaa
+työläinen kun lopputilin saa
+Vaik’ on tulos himmennytkin
+tutalainen vielä nytkin
+tehtaat kaukomaille ulkoistaa!;.;
+
+---END---

@@ -1,0 +1,13 @@
+Title: Vietin faija
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vietin faija
+Tags: K18
+
+---LYRICS---
+
+Vamos ala playa, Vietin mutsi on sun faija
+
+---END---

@@ -1,0 +1,40 @@
+Title: Valopäiden aakkoset
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Kesän lapsi
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+A - valon lapsi mä oon.
+B - villi luonteeni on!
+C - lempikieleni on.
+D - kuppikokoni on.
+E - n valon lapsi mä oo.
+F - uksit kuolleita on.
+G - piste kateissa on.
+H - bitti mä oon.
+I - loinen mä oon.
+J - Karjalainen mä oon.
+K - massa huomenna oon.
+L - matikka perseestä on.
+M - män puutteessa oon.
+N - kytys pu-puheeni on.
+O - peralaulaja oon.
+P - rseeni on suunnaton.
+Q - rkkuni niin kuiva on.
+R - syttävä laulu tää on.
+S - sä mun hihassa on.
+T - Samuli mä oon.
+U - topiaa tää on.
+V - ttä mitä perkelet- on.
+W - C varattu taas on.
+X - koordinaattini on.
+Y - toinen koordinaatti on.
+Z - kolmas koordinaatti on.
+Ä - lkää viel lopettako.
+Ö - lini loppuju jo on.
+
+---END---

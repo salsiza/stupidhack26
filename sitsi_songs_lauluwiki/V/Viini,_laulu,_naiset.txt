@@ -1,0 +1,19 @@
+Title: Viini, laulu, naiset
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sam Sihvon sävellys
+
+---LYRICS---
+
+Meil viini, laulu, naiset ain rakkahia on.
+Lutherus myöskin myönsi tään jalon uskonnon.
+Ne lahjaks ihmisille jo ammoin Luoja loi,
+kun tarhaan paratiisin hän Eevan viekkaan loi.
+Nyt väistyköhön elon synkät murheet,
+ei häirite ne iloamme saa.
+Lie huomenna jo tuoni tuttavamme -
+siis nuoruudelle, veikot, hurratkaa! Hurraa!
+
+---END---

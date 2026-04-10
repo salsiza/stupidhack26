@@ -1,0 +1,33 @@
+Title: Ceetä feat. naapurin Tiina
+Category: C
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Stig - Ryyppy
+Tags: Muut laulut
+
+---LYRICS---
+
+Maarilta palaan mä illalla,
+olis tarkotus himassa chillailla,
+mun kaljahammasta kolottaa,
+vituttaa päätäkin jomottaa,
+on aika soittaa naapurin aasille,
+et lähetään parille kaljalle,
+mut sieltä kilahtaa niitti,
+huomen C kierros kiinni!
+
+Koodaan C:tä, C:tä,
+Mun korvia piinaa, 
+joku panee naapurin Tiinaa,
+koodaan C:tä, C:tä,
+ei ne lopeta ollenkaan,
+aamuun asti ulvoo vaan,
+koodaan C:tä, C:tä,
+tää on mulle jo liikaa,
+rupee päässä jo viiraa,
+koodaan C:tä, C:tä,
+en mä mee nukkumaan,
+aamuun asti koodaan vaan...
+
+---END---

@@ -1,0 +1,20 @@
+Title: Viimeisen kimlaajan laulu
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Viimeisen teekkarin laulu
+
+---LYRICS---
+
+Tahtoisin mä quatronkin, 
+vaan kelpaa mulle tuplakin;
+Noppaa, noppaa naksautan 
+mua alkaa viituttaa
+
+Kun uhkaa kimbletappio
+ja sakkojuomien ahdinko
+Niin veikot silloin auttakaa
+Ja sallikaa korottaa
+
+---END---

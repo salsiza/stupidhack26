@@ -1,0 +1,21 @@
+Title: edarilaulu
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: kaks kisälliä
+Tags: Koulutuspoliittiset
+
+---LYRICS---
+
+Kaks ehdokasta kulki kampuksella lobaten.
+Ja he lobbaukses toi julki ylevän aattehen:
+jos edariinkin pääsis, ja broilereiksi haudumme
+Niin silloin tiemme veisi Arkadianmäelle.
+
+Takariviin kokoushuoneen, renkaana istuttais
+Ja sieltä turvastamme, hallituksel huudeltais
+Ja me syötäis Amican leipii, kauramaidos uitaisiin
+Ah vielä kerran voisi hakea edariin
+
+---END---

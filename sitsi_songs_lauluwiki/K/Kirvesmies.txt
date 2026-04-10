@@ -1,0 +1,11 @@
+Title: Kirvesmies
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+
+---LYRICS---
+
+Päivällä
+
+---END---

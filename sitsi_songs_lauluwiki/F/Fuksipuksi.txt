@@ -1,0 +1,29 @@
+Title: Fuksipuksi
+Category: F
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Mörri-Möykky
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Ottaisin minä pienen fuksin
+jos vain kiinni saisin
+:,:Pieneen koriin pistäisin
+ja baariin kuljettaisin:,:
+Tiutautiutautilitalitittan
+Kylläpäs fuksit on kännissä
+:,:Kun niille pikkasen viinaa antaa
+niin ne on mukana rännissä:,:
+
+Vaan eipä taida meidän fuksit
+tätä kyytiä kestää
+:,:Pian ne kiltiksen sohvilla sammuu
+eikä voi laattaa estää:,:
+Tiutautiutautilitalitittan
+Kylläpäs fuksit on kännissä
+:,:Kun niille pikkasen viinaa antaa
+niin ne on mukana rännissä:,:
+
+---END---

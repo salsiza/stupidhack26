@@ -1,0 +1,16 @@
+Title: AS-phuksin marssi
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Porilaisten marssi
+Tags: Viralliset
+
+---LYRICS---
+
+Phuksit killan urhokkaan
+Me säädön, automaation ja viestinnänkin oppi saadaan
+Viel' on AS voimissaan
+Ja riemuhuuto: "AIVAN SAMA!" raikaa vaan
+
+---END---

@@ -1,0 +1,20 @@
+Title: Hätähuuto
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Brädi - Hätähuuto
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Pelastakaa mut,
+pöydän alle mä jään!
+Jos sä kuulet mun huudon,
+laula kanssani tää.
+Se on tiskille viesti:
+vielä selvä mä oon,
+tuokaa vaan...
+Vielä yks juoma!
+
+---END---

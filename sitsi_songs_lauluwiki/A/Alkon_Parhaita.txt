@@ -1,0 +1,18 @@
+Title: Alkon Parhaita
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Piippolan vaarilla oli talo
+Tags: Snapsilaulut
+
+---LYRICS---
+
+:,: Vaakuna, Herba ja Koskenkorva
+Alkon parhaita, hei. :,:
+Viinaa siellä ja viinaa täällä,
+siellä viinaa, täällä viinaa,
+joka puolella viinaa.
+Kuka sen pullon vei?
+
+---END---

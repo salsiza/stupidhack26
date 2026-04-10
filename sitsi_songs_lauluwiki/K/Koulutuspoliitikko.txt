@@ -1,0 +1,28 @@
+Title: Koulutuspoliitikko
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Koneinsinöörikilta
+Tags: Muut laulut
+
+---LYRICS---
+
+Koulutuspoliitikko
+kokoustaa joka viikko.
+KOPO*8
+kokoustaa joka viikko.
+
+Ja kokouksissansa 
+hajoilee KOPO-kansa.
+KOPO...
+
+On papereita pino,
+ja niihin kasvaa himo.
+KOPO...
+
+Ja yritystä riittää
+ja rehtoraatti kiittää.
+KOPO...
+
+---END---

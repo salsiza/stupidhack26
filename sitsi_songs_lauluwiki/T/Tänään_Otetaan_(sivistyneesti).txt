@@ -1,0 +1,25 @@
+Title: Tänään Otetaan (sivistyneesti)
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Poikkitieteelliset
+
+---LYRICS---
+
+:,: Tänään otetaan, tänään otetaan
+sivistynyt annos viinaa :,:
+:,: Huomenna on, huomenna on
+raikas ja kevyt olo :,:
+
+:,: I dag ska vi ta, i dag ska vi ta,
+lagom mycket brännvin :,:
+:,: I morgon ska vi ha, i morgon ska vi ha,
+allt liksom i Strömsö :,:
+
+:,: Tonight we shall sip, tonight we shall sip,
+a prim and proper glass of sherry :,:
+:,: Tomorrow we shall have, tomorrow we shall have,
+a biscuit with our afternoon tea :,:
+
+---END---

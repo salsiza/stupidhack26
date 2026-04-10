@@ -1,0 +1,24 @@
+Title: Fiksuin päivä
+Category: F
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Fiksut päivät
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Huonoa
+Huonompaa
+Killan toiminta on huonointa
+Eroamme tietokillasta heti huomenna
+Ahaa! 
+Nyt säästän rahaa!
+
+Infoa
+Infompaa
+Infon toiminta on paskaa
+Triididi-triididi
+Paska-paska paska kissa
+
+---END---

@@ -1,0 +1,35 @@
+Title: Oispa
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: In the Navy
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Oispa kaljaa
+sillä kivan kännin saa
+Oispa kaljaa
+mulle lisää antakaa
+Oispa kaljaa
+uuteen nousuun kihdyttää
+Oispa kaljaa, oispa kaljaa
+
+Oispa skumppaa
+sillä hassun kännin saa
+Oispa skumppaa
+silliksellä tarjotaan
+Oispa skumppaa
+sillä överitkin saa
+Oispa skumppaa, oispa skumppaa
+
+Oispa viinaa
+sillä kunnon kännin saa
+Oispa viinaa
+filmi katkee kokonaan
+Oispa viinaa
+vessaan norjaa puhumaan
+Oispa viinaa, oispa viinaa
+
+---END---

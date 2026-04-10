@@ -1,0 +1,31 @@
+Title: Linus-setä
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Lenin-setä asuu venäjällä
+Tags: Ohjelmointilaulut Lastenlaulut
+
+---LYRICS---
+
+Linus-setä asuu Portlannissa
+Sieltä on pitkä matka Bostoniin
+Mutta minusta vain tuntuu että 
+Linus-setä asuu yhtä lähellä kuin setä rms
+
+Linusilla on niin suuri käyttis
+Että siihen mahtuu koko GNU ja kernelkin
+Ja Linus-setä kiroilee, näyttää käsimerkkejä
+Ja hän huutaa niin kuin setä Theo de Raadt
+
+Linux-kernel asuu git-repossa
+Ja minä kloonaan sen kylään tänne /usr/src:iin
+Ja Linus rakastaa kerneliä
+Ja meille hän on aivan yhtä kultainen kuin setä dmr
+
+Minä olen pikku C-hakkeri
+Ja vähäinen on vielä velhous-grokkini
+Mutta pienikin voi koodailla
+Vapauden puolesta kuin Linus ja setä rms
+
+---END---

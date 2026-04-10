@@ -1,0 +1,19 @@
+Title: Pieni Etno
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Tao Tao
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Siit' kulkee Otaniementie ja vieres ostarikin lie,
+siin' Etno on, siin' Etno on.
+
+Jos haluat ruuan nopean kun tunnet nälän kasvavan,
+niin Etnolle, niin Etnolle.
+
+Tupla X-burger, kaikki mausteet, otan mukaani nyt kiitos sen.
+
+---END---

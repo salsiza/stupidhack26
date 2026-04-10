@@ -1,0 +1,22 @@
+Title: Pas de quatre
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Meyer Lutz - Pas de quatre (written for Faust up to Date)
+Tags: Muut laulut
+
+---LYRICS---
+
+Ravintolasta 
+astuin vasta 
+hiukan horjahtaen.
+Siellä mä istuin 
+melkein pelkkää
+vettä nautiskellen.
+Katajanmarjabrenkkua
+en juonut hiukkastakaan;
+kas, apteekista saan
+farmaseutilta fortista.
+
+---END---

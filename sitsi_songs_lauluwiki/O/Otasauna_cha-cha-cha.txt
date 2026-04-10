@@ -1,0 +1,20 @@
+Title: Otasauna cha-cha-cha
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sillanpään marssilaulu
+Tags: Muut laulut
+
+---LYRICS---
+
+Nakupellenä, veikkoja vierelläin,
+löylynlyömänä hikoilen: (Olutta!)
+Suopa, saippua, suihku on systeemi,
+takanloimossa laulelen: (Koskista!)
+Aika oppineen kiiruhtaa: (Makkaraa!)
+juoma torvessa pulputtaa.
+Puukko, perkele, terva ja terveys,
+sisu Suomella saunassa! (Cha-cha-cha!)
+
+---END---

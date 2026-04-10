@@ -1,0 +1,29 @@
+Title: Rankka-bussin onneksi
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Tämän talon onneksi
+Tags: Muut laulut
+
+---LYRICS---
+
+:,: Ja me juomme Rankka-bussin onneksi,
+kippis, kippis.:,:
+:,: Täällä oleville, poissa oleville
+ja vastakin bussiin tuleville,
+kippis, kippis. :,:
+
+:,: Ja me juomme Rankka-bussin konkurssiin,
+kippis, kippis. :,:
+:,: Täällä oleville, poissa oleville
+ja vastakin bussiin tuleville,
+kippis, kippis. :,:
+
+:,: Ja me juomme Rankka-bussin bensiinin,
+KUPPIS STN, KUPPIS STN! :,:
+:,: Kaiken öljynkin, koko voitelun
+ja helavita akkumalaattorin,
+KUPPIS STN, KUPPIS STN! :,:
+
+---END---

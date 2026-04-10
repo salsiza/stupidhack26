@@ -1,0 +1,36 @@
+Title: Rullaati
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Rullaati Rullaa
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Kapakan uksen, kun jälkeeni suljen,
+eessä on katu niin kallellapäin.
+Hiljalleen keinuu se minne vain kuljen,
+kaikki on päissänsä täll'lailla näin.
+:,:Hei rulaati rullaati rullaati rullaa,
+rullaati rullaati rullallallei! :,:
+
+Kuukin se kieppuu kuin orrella kukko,
+katsoopi kieroon ja irvistelee:
+"Päissäs' oot myöskin sä turkasen ukko,
+hiukan jos huippaa, sä noin älä tee."
+:,:Hei rullaati ...
+
+Pylväätkin lyhtyineen piirissä rullaa,
+ei niistä kunnolla otetta saa.
+Tuolla vain veisaat aa-tussa-lullaa,
+pää niil' on täynnä ja keikkuupi maa.
+:,:Hei rullaati ...
+
+Hyi, kuinka kaikki vain Bacchusta palvoo,
+yksin oon selvä, ei toisia näy.
+Tylsäksi muuttuu, ken hulluja valvoo,
+takaisin kapakkaan matkani käy.
+:,:Hei rullaati ...
+
+---END---

@@ -1,0 +1,16 @@
+Title: Kullini
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Tupakkarulla
+Tags: K18
+
+---LYRICS---
+
+Kuu-kuu-kuu kullini.
+Miksi olet liian pieni? 
+Tulit pitkin Turun tietä,
+hämäläisen härän reikään.
+
+---END---

@@ -1,0 +1,21 @@
+Title: Tähdistä kirkkain (ylim.)
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sylvian joululaulu
+Tags: Aveclaulut
+
+---LYRICS---
+
+Ja niin jallu joitui jo taas laseihin,
+Jallu joutui jo rintoihinkin
+Ja silmät ne kirkkaana luo loistoaan
+Jo kasvoihin väsyneihin
+
+Mutt' aamulla sängyssä vielä on vain
+Se olo, mi sulkee mun tajuntain
+Ja vaiennut vaikerrus on krapulan
+Oi, murheita muistaa ken vois laulajan?
+
+---END---

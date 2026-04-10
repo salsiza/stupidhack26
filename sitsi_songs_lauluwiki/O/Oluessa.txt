@@ -1,0 +1,26 @@
+Title: Oluessa
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Alouette
+Tags: Olutlaulut
+
+---LYRICS---
+
+Oluessa, ihan oluessa, 
+Oluessa koko popula.
+Oluessa popula, 
+ihan koko popula, 
+popula – popula,
+Aaaaaaaa!
+
+kaljassa – kaljassa, popula…
+ 
+Olvissa – Olvissa, kaljassa…
+
+Koffissa – Koffissa, Olvissa…
+
+Karhussa – Karhussa, Koffissa...
+
+---END---

@@ -1,0 +1,35 @@
+Title: Ikuisen teekkarin laulu
+Category: I
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Viralliset
+
+---LYRICS---
+
+Talvi-iltain tummentuessa
+Polin suojiin me saavumme taas.
+:,: Meidät tekniikka jälkeen on jättänyt,
+    sen me tahdomme unhoittaa. :,:
+
+Unelma vain on diplomityömme,
+joka tenttimme vanhennut.
+:,: Jo ruostunut harpikko käyttämätön,
+    tushi pulloihin jähmennyt. :,:
+
+Aina teekkaripolvien uutten
+ohi pöytämme käyvän nään
+:,: Mutta meillä ei voimaa enää kylliksi
+    heidän joukkoonsa liittymään. :,:
+
+Viini laseissa ilkkuen päilyy,
+meitä kutsuen kuohuillaan.
+:,: Pois murheemme tahdomme karkoittaa,
+    äly pois mitä maksoikaan! :,:
+
+Ja kun Integer vitae meille
+kerran viimeisen lauletaan.
+:,: Silloin ikuisen teekkarin haudalle
+    oluttynnöri nostetaan. :,:
+
+---END---

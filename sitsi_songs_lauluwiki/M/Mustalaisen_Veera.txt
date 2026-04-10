@@ -1,0 +1,20 @@
+Title: Mustalaisen Veera
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+:,: Raastuvan penkillä halasin
+minä mustalaisen Veeraa. :,: 
+:,: Veera se vapisi ja penkki se natisi
+ja orkar du inte mera. :,: 
+
+:,: På rådstugans bänken där halsade
+jag zigenarflickan Vera. :,:
+:,: Vera hon darrade och bänken den knarrade
+och ekkös sä jaksa enää. :,:
+
+---END---

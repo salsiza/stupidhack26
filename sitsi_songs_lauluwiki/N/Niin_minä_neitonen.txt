@@ -1,0 +1,21 @@
+Title: Niin minä neitonen
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Niin minä neitonen
+Tags: Serenadit
+
+---LYRICS---
+
+:,: Niin minä, neitonen sinulle laulan
+kuin omalle kullalleni.:,:
+:,: Jos olis valtaa niin kuin on mieli,
+niin ottaisin omakseni.:,:
+
+:,: Kullalleni minä laulelen
+ja kellekäs sitten muille.:,:
+:,: En minä laula kallioille
+enkä metsän puille.:,:
+
+---END---

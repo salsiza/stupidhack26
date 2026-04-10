@@ -1,0 +1,21 @@
+Title: Sista punschvisan
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Auld lang syne
+Tags: Aveclaulut
+
+---LYRICS---
+
+När punschen småningom är slut
+och vår flaska blivit tom,
+då vänder vi den upp och ner
+tills dess inget rinner ur.
+
+:,: Så slickar vi, så slickar vi
+båd utanpå och i,
+och finns det ändå något kvar,
+så får det va' till sämre dar. :,:
+
+---END---

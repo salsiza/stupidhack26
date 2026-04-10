@@ -1,0 +1,21 @@
+Title: Metsästysseura
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Trad.
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Oli perustettu metsästysseura,
+piti ammuttaman hevonen eli peura,
+Mutta herrat ne ampuivat pyyn
+ja saivat siitä ryyppäämisen syyn.
+
+Oli perustettu hevonen eli peura,
+piti ammuttaman metsästysseura,
+Mutta herrat ne ampuivat syyn
+ja sitten ne ryyppäs sen pyyn.
+
+---END---

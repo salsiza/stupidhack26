@@ -1,0 +1,46 @@
+Title: Raivokoodi
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Cicapo
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Koodaan hiukan ceetä sitten hajoan, hajoan.
+Maarille mä ryömin, siellä hajoan, hajoan.
+Raa-aimon-oo-oodi, Raa-aivo-koo-oodi.
+Hajoan, hajoan.
+SegFault kun lennähtää!
+
+Johan alkaa pääni tähän hajota, hajota.
+Juomisesta haen illat lohtua, lohtua.
+Raa-aimon-oo-oodi, Raa-aivo-koo-oodi.
+Hajoan, hajoan.
+SegFault se lennähtää.
+
+Oi epätoivoa, miksei se toimikaan?!
+Pöytäni kumoan ja näyttöni hajotan!
+Hetken jo helpottaa, errorit vähenee.
+Ei, olin väärässä! Kääntäjä vikisee!
+
+
+Ceehen laitan kaksi plussaa, karkkia. Karkkia.
+Pitäishän jo kaiken alkaa toimia, toimia.
+Raa-aimon-oo-oodi, Raa-aivo-koo-oodi.
+Hajoan, Hajoan.
+SegFault taas lennähtää!
+
+Raimo sanoi että tää ois helppoa, helppoa.
+Silti en saa virheistä mä tolkkua, tolkkua
+Raa-aimon-oo-oodi, Raa-aivo-koo-oodi
+Hajoan, taas hajoan.
+Kun SegFault se lennähtää!
+
+Olispas helppoa, javaa vaik' koodailla.
+Taikka pythonia, oi sitä karkkia.
+Maarilta herään taas, tänne kai nukahdin.
+Koodini, perkele, unissain tuhosin!
+
+---END---

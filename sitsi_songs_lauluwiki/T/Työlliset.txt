@@ -1,0 +1,15 @@
+Title: Työlliset
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sankarit
+Tags: Muut laulut
+
+---LYRICS---
+
+Me ollaan työllisiä kaikki, kun oikein silmin katsotaan,
+Me ollaan työllisiä Sipilän,
+Ihan jokainen!
+
+---END---

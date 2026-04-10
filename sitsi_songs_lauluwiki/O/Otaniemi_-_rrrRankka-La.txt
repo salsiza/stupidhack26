@@ -1,0 +1,17 @@
+Title: Otaniemi - rrrRankka-La
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Paleface: Helsinki - Shangri-La
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Rankka-bussi hajotetaan pojan loppuessa,
+Parempi ois pitää rankkaväki juomingeissa.
+Kuules IE hei,
+jos ei virvokkeita saada
+Riiput ruseliineistasi bussin pohjassa!
+
+---END---

@@ -1,0 +1,22 @@
+Title: EPJstö
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ukkonooa
+Tags: Koulutuspoliittiset
+
+---LYRICS---
+
+Eepeejiistö
+Eepeejiistö
+Oli kunnon jiistö.
+
+Kun ne meni edariin
+Laittoi esityslistan ayy:n viralliselle ilmoitustaululle keskustoimisto yläkerran eteisessä.
+
+Eepeejiistö
+Eepeejiistö
+Oli kunnon jiistö.
+
+---END---

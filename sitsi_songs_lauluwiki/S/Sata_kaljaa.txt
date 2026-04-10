@@ -1,0 +1,16 @@
+Title: Sata kaljaa
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vicky Rosti - Sata salamaa (kertosäe)
+Tags: Olutlaulut
+
+---LYRICS---
+
+Sata kaljaa iskee tulta,
+ja koko keissi räjähtää,
+ei häppää voi riistää multa,
+känni jäljelle jää.
+
+---END---

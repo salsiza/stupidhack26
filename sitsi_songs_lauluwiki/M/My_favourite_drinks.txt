@@ -1,0 +1,27 @@
+Title: My favourite drinks
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: My favourite things
+Tags: Muut laulut
+
+---LYRICS---
+
+Negroni, Manhattan, Tequila sunrise;
+Gin Tonic, Blue Angel, a vodka on ice;
+Campari orange, Ferrari, Tom Collins;
+these are a few of my favourite drinks!
+
+Screwdriver, Grasshopper, Apple Martini;
+Black russian, White russian! Long island ice tea;
+Little green fairies absinthe on their wings;
+These are a few of my favourite drinks;
+
+When the glass breaks;
+or my hand shakes;
+when I'm feeling sad;
+I mix up a few of my favourite drinks,
+and then I don't feel so bad!
+
+---END---

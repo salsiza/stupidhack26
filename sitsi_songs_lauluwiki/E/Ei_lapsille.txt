@@ -1,0 +1,14 @@
+Title: Ei lapsille
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Oi kuusipuu
+Tags: K18
+
+---LYRICS---
+
+Voi saatana, voi perkele
+Ei jumalauta vittu #3
+
+---END---

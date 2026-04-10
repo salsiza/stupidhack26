@@ -1,0 +1,20 @@
+Title: Oodi Aalto-IT:lle
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ode to Joy
+Tags: Olutlaulut
+
+---LYRICS---
+
+Tenttiviikko alkaa taas
+on Noppa jälleen alhaalla
+Jos sä tahdot tenttiin lukee
+kalvoi et voi printata.
+Aalto IT päivittää taas
+palvelin on alhaalla.
+Paper jam, out of toner
+etäkäyttö kielletään.
+
+---END---

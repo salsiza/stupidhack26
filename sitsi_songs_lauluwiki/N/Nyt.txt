@@ -1,0 +1,13 @@
+Title: Nyt
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Nyt
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Nyt
+
+---END---

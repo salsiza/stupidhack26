@@ -1,0 +1,17 @@
+Title: Otaniemi sangriaa
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Mannakorven mailla
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Alepasta ostetaan me mädät appelsiinit
+Rainbow-mehujuomatkaan ei liene liian fiinit.
+Hura-huh-hah-hei,
+viinitonkka Tallinnasta!
+Kato näin me tehdään Otaniemes sangriaa.
+
+---END---

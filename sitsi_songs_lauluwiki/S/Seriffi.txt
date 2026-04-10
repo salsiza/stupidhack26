@@ -1,0 +1,32 @@
+Title: Seriffi
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Oh Susanna
+Tags: Aveclaulut
+
+---LYRICS---
+
+Minä eilisillan kämpillä,
+kun yksin dokasin,
+sain kohdata tuon sankarin,
+yhden tähden seriffin.
+
+Siinä kahden kesken sohvalla,
+kun iltaa istuttiin,
+sain luottaa suureen sankariin,
+yhden tähden seriffiin.
+
+:,: Ei kelpaa mulle vodka,
+miksi kaljaa joisinkaan,
+kun yhden tähden seriffin 
+kanssa pääsen nukkumaan. :,:
+
+Kun univormun tyhjän näin, 
+aamulla sankarin,
+polkupyöräni mä valjastin,
+hain uuden seriffin.
+:,: Ei kelpaa mulle... :,:
+
+---END---

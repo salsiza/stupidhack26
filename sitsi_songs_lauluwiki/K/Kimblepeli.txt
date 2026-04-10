@@ -1,0 +1,19 @@
+Title: Kimblepeli
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Bulevardi
+
+---LYRICS---
+
+Kimblepelin tuplaussäännöt
+ovat vitun huonot
+Aina siellä tuplaileepi
+joku vitun ihminen (tuomo) 
+Noppa pannaan kutoseen ja
+nappula käännetään
+Tämä uusi tupla
+kaikki sakot täyttää.
+
+---END---

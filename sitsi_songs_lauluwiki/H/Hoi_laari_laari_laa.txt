@@ -1,0 +1,14 @@
+Title: Hoi laari laari laa
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: J. Ennola - Suomen salossa (kertosäe)
+
+---LYRICS---
+
+Hoi laari laari laa,
+Hoi laari laari laa,
+kurkkua tarttis jo kostuttaa
+
+---END---

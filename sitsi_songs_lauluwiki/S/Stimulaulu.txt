@@ -1,0 +1,48 @@
+Title: Stimulaulu
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Vanha holvikirkko
+Tags: Viralliset
+
+---LYRICS---
+
+Vuos'juhla tullut on,
+Laulu soi, sekä raikaa,
+Myös vanhan kiltajermun korvat kuulee musiikin.
+Tuo biisi verraton,
+Sen tahdon mä laulaa.
+Ai mikä kurkun kuivuus? Tänään siitä veisaan viis!
+
+Vielä muistat kai,
+Nuo kokkarit kauniit,
+Joissa skumppa virtas' ja myös puheit' pidettiin.
+Sai kilta lahjoja,
+Niihin hallitus hukkuu,
+On betoni ain' elegantti dekorantti niin.
+
+kerto:
+ Taas kerran, kun vuosirengas kiltaan kasvaa
+ Ne phuksei' on vielä - mutta ootappa vaan.
+ Viel' joskus lakit saavat,
+ Sit' partaan kasvaa naavat,
+ Ja kertoa he saavat: "Silloin ennen, niin!"
+
+ Ja huomenna taas on,
+ Meillä silliksen vuoro.
+ On kaikil' asu mahtava, nyt jäykistely pois.
+ Sit' herkkui' naamaan vaan,
+ Eikä oo olo huono.
+ Oi jospa joka päivä vuosijuhla olla vois!
+
+Viel' ilta nuori on,
+Mutta ootan jo aikaa,
+Kun kohta pääsee söpön tyypin kanssa tanssimaan.
+Oi, kehruuvalssia,
+Cicapo, Pas d'Espagne,
+Ja lopuksi jos soisi vielä valssi ainiaan.
+
+kerto
+
+---END---

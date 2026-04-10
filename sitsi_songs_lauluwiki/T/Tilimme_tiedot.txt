@@ -1,0 +1,21 @@
+Title: Tilimme tiedot
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Elomme päivät
+Tags: Viralliset
+
+---LYRICS---
+
+Tilimme tiedot epäselvät
+Rahis tuo julma suonut on
+Kun eilen etsimme me kuitteja
+Ja tänään killan rahoja
+
+Jumalauta täällä tuhlataan!
+Ysvit vittu tulkaa auttamaan
+Me konkurssin teemme ja sit dokaamme
+Ja killan rahat huiviin heitämme, perkele!
+
+---END---

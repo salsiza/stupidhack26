@@ -1,0 +1,39 @@
+Title: Pieni undulaatti
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Interaktiiviset
+
+---LYRICS---
+
+// hakasuluissa [] interaktiivinen osa
+
+Mä pieni undulaatti oon
+[heilutetaan käsiä linnun siipinä]
+ja aina niin nälkäinen.
+[pyöritetään kättä mahan edessä]
+Mun kotiväki, mun kotiväki
+[piirretään käsillä talo]
+on niin saita!
+[heilautetaan oikea käsi ylhäältä vasemmalle keskelle]
+Ne syöttää silliä aina vaan
+[kädet yhdessä kalamaista uintiliikettä]
+ja sitä en halua!
+[pyöritetään päätä]
+Vaan haluaisin, vaan haluaisin
+[nyökytetään päätä]
+coca-colan
+[juodaan kaksin käsin miimisestä pullosta]
+ja jätskin!
+[nuollaan kaksinkäsin pidettyä miimistä tuutti-jäätelöä]
+
+Muut säkeistöt:
+Ranska: liikkeet pienesti ja pehmeästi
+USA: liikkeet ISOSTI
+Saksa: liikkeet kulmikkaina
+Ruotsi: ensimmäinen liike kaivetaan nenää, jonka jälkeen kaikki liikkeet siirtyy yhden pykälän eteenpäin
+Japani: liikkeet aloitetaan yksi rivi aikaisemmin kuin laulu
+Austraalia: liikkeet vastakkaisessa järjestyksessä kuin laulu
+
+---END---

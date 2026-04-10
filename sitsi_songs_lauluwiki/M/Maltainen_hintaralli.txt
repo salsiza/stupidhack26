@@ -1,0 +1,30 @@
+Title: Maltainen hintaralli
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pojat
+Tags: Olutlaulut
+
+---LYRICS---
+
+Olut - miksi vaihtoehto olet aina halvin?
+Olut - vai hinnastasi unohdinko alvin?
+Joskus lonkeron tahtoisin,
+mut kalja maksaa taas vain euron.
+Olut - miksi vaihtoehto olet aina halvin?
+
+Olut - onko halpaa pelkkä ohrapellon niitto?
+Olut - ehkä kaiken takaa löytyy salaliitto.
+Hinnat siiderin hivutetaan 
+pilviin hiljaa pienin erin.
+Olut - ehkä kaiken takaa löytyy salaliitto.
+
+Olut - kaipa pitäisi vain olla tyytyväinen.
+Olut - ja unohtaa ongelma tyhjäpäinen
+Mallaskuohuihin hyppään ennen
+kuin ne menee muihin suihin
+:,: Olut - ja unohdan 
+ongelmat tyhjäpäiset. :,:
+
+---END---

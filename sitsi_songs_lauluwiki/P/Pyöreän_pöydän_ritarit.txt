@@ -1,0 +1,36 @@
+Title: Pyöreän pöydän ritarit
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Viinilaulut
+
+---LYRICS---
+
+:,: Ritarit nuo pyöreän pöydän
+käyvät viiniä maistamaan. :,:
+Käyvät viiniä - ei ei,
+käyvät viiniä - juu juu,
+käyvät viiniä maistamaan.
+
+:,: Pullokaupalla sitä nautin
+neito kaunis mun polvellain. :,:
+Neito kaunis...
+
+:,: Avaa tappi ja suusi myöskin
+viini virtaa sun kurkkuusi. :,:
+Viini virtaa...
+
+:,: Kun mä kuolen, mä toivon että
+mut viinikellariin haudataan. :,:
+Viinikellariin...
+
+:,: Kylmän ruumiini hautaan kantaa
+neljä suurinta juoppoa. :,:
+Neljä suurinta...
+
+:,: Hautakirjoitus: “Tässä lepää
+juomareittemme kuningas.” :,:
+Juomareittemme...
+
+---END---

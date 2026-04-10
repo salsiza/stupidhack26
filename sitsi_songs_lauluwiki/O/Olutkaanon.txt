@@ -1,0 +1,16 @@
+Title: Olutkaanon
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Jaakko kulta
+Tags: Olutlaulut
+
+---LYRICS---
+
+Lapin kulta, Lapin kulta
+Karjala, Karjala
+Sininen ja Olvi, Sininen ja Olvi
+Koff, Koff, Koff
+
+---END---

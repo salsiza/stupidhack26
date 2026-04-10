@@ -1,0 +1,21 @@
+Title: Jallupulloja
+Category: J
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pullava-tunnusmusiikki
+Tags: Aveclaulut
+
+---LYRICS---
+
+On helppo juoma jokaisen
+Maukas jallu pehmoinen
+Ei tarvi korkkii seivata, 
+kun alkaa jalluu reivata
+Valmiina, aloillas
+Siitä täytyy nauttia
+:,: Pulloja, pulloja,
+Jallupulloja,
+Jallupulloja :,:
+
+---END---

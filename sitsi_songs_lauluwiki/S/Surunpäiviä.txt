@@ -1,0 +1,23 @@
+Title: Surunpäiviä
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Ja se tyttö, joka rakkautens’ kanssa kamppailee,
+se ompi niinkuin sammakko, mi suossa kurnailee.
+ :,: Ei, mutta surunpäiviä viettämään
+on tämä joukko vielä liian nuori. :,:
+
+Se tähti, joka taivahalta alas tipahtaa,
+se pyörii niinkuin pyssynluoti nurmikedolla.
+ :,: Ei, mutta...
+
+Ja se poika, joka rakkautens’ kanssa kamppailee,
+se ompi niinkuin orpo piru kuusen oksalla.
+ :,: Ei, mutta...
+
+---END---

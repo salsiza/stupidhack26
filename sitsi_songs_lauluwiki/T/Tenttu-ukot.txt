@@ -1,0 +1,32 @@
+Title: Tenttu-ukot
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hei, tonttu-ukot hyppikäätte
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+:,: Hei, tenttu-ukot hyppikäätte,
+viel’ on apteekit auki. :,:
+Vain hetken kestää humalaa,
+ja se on helkkarin mukavaa.
+Hei, tenttu-ukot hyppikäätte,
+viel’ on apteekit auki.
+
+:,: Hei, tenttu-ukot hyppikäätte,
+viel’ on apteekit auki. :,:
+Kauan kestää krapulaa,
+ja se on helkkarin kamalaa
+Hei, tenttu-ukot hyppikäätte,
+viel’ on apteekit auki.
+
+:,: Hej, tomtegubbar, slå i glasen
+och låt oss lustiga vara :,:
+Kom inte hit med aquavit
+ty vi ha brännvin och etniks sprit
+Hej tomtegubbar, slå i glasen
+och låt oss lustiga vara
+
+---END---

@@ -1,0 +1,23 @@
+Title: Pissattaa
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ihahaa
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Pissattaa, pissattaa,
+mua pissattaa! 
+Ihanaa, ihanaa,
+kohta helpottaa! 
+
+Kakattaa, kakattaa,
+tahdon paskantaa. 
+Ihanaa, ihanaa,
+kohta helpottaa! 
+
+<keksikää jatkoa!>
+
+---END---

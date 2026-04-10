@@ -1,0 +1,31 @@
+Title: Tietoa
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Nikkarin Kerttu
+Tags: K18
+
+---LYRICS---
+
+Mä tiedän virran, miss' ei vesi jäädy,
+ei paista aurinko, ei loista kuu.
+Niin vaikeaa on sinne sisään pääsy,
+kun tuuheen kaislan peitoss' on sen suu.
+
+Ei metsämies saa siellä riistaa pyytää,
+ei kalamies saa laskea verkkojaan.
+Vain joskus, joskus pieni viekas hauki
+käy hetkeks' virran uomaan kellumaan.
+
+Ja ilta-aurinko kun länteen laskee,
+mä hiljaa hiivin virran rannalle
+ja otan esiin pienen palkovenheen
+ja virran suusta vedän vesille.
+
+Ees takaisin näin hetken hiljaa soudan,
+siks' kunnes venho rupee vuotamaan
+ja tyytyväisnä päätän souturetken
+ja venhon rannalle vien kuivumaan.
+
+---END---

@@ -1,0 +1,21 @@
+Title: Hyökyaalto
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Varpunen jouluaamuna
+Tags: Muut laulut
+
+---LYRICS---
+
+Hyökyaalto peittänyt
+koulut Helsingissä.
+Aalto tuli Espoosta,
+tulos on nyt tässä.
+pursula pienoinen
+päättänyt virkapäivänsä.
+
+Teeri on nyt vallassa
+teekkareiden maassa.
+
+---END---

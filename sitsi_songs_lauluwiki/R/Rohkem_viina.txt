@@ -1,0 +1,19 @@
+Title: Rohkem viina
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Olutlaulut
+
+---LYRICS---
+
+Rohkem viina mu klaasi, 
+rohkem klaase mu lauale, 
+rohkem laudu meie saali, 
+rohkem balle rahvale, 
+rohkem eestlasi maailma, 
+rohkem Eestimaad peale maa, 
+rohkem alasid Eestile: 
+Marsime, suunnaks meil Petseri, Petseri!
+
+---END---

@@ -1,0 +1,16 @@
+Title: Raimo Nikkilän C++
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pikku kakkosen posti
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Raimo Nikkilän C++
+Yöt ja päivät Maarilla
+Mikä vitun template
+Hello worldin sijaan tulee kakstuhatta virhettä
+
+---END---

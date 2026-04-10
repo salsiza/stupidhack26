@@ -1,0 +1,54 @@
+Title: Laulukilpailujulkaisupotpuri
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Lukuisia
+Tags: Lastenlaulut
+
+---LYRICS---
+
+(Jänöjussin mäenlasku)
+Kun harmistellen selaili laulukirjojaan
+Niin killisti tuo huomasi 
+puutteen suorastaan
+Kas sanansäilä hällä on 
+Ja laulajana verraton
+"Kai ansaitsen mä teokseen 
+Laulun poikineen"
+
+(Hämähämähäkki)
+Pikku pikku phuksi laulu alkuun paa
+Ota kiva biisi mi' uudet sanat saa
+Helppo jos laulaa 
+se vain plussaa on
+Kohta sulla valmis
+laulu verraton
+
+(Kapteeni Koukku)
+Jos teemaksi hiukan paat jotain
+rumaa, rumaa
+Niin satiirin kanssa lie se ei
+Kuraa, kuraa!
+Vaan luottaa voitko et tuomarit
+Sen ymmärtänevät varmasti
+Tai wappuna kirkon portailla
+Laulat alasti
+
+(Piiri pieni pyörii)
+Sävel vaikkei hankaa;
+Vailla punalankaa
+Tarinasi rakenne
+Laulussa ei etene
+
+(Jänöjussin mäenlasku)
+Kun taideteos valmiina
+on lupa nauttia
+Ja pidä huolta tavuista
+tai kieli takeltaa
+Vaan vaik ois luotu taidoitta 
+Mut suuren tahdon voimalla
+Niin teekkari sen lauleli
+Mieluummin kuin hyvin
+
+---END---

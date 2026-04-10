@@ -1,0 +1,41 @@
+Title: Koodaan Liikaa
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hector - Juodaan Viinaa
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Kahden plussan c-kurssin käytyään
+kaksi aASii istuu Keltsun hämärään.
+Toinen miettii Oodiin jäävää merkintää
+Kun taas toinen ihailee vain Hiisilää!  //(tai NIKKILÄÄ!)
+
+aASi liikaa assariltaan kyselee;
+ei kun speksi kehiin ja sitten vääntämään.
+Phuksit nukkuu, epätoivo syvenee...
+aASi vastauksen löytää itsestään:
+
+Koodaan liikaa, koodaan aamuun asti näin!
+Koodaan liikaa, ei näy mua öisin lähibaarilla...
+- vaan Maarilla!
+
+aASi nuoren assarin saa sekaisin
+siltä pointtereista liika udellen.
+Koodailu on rankkaa kera mallocin;
+aASi huokaa, mutta jälkeen int main():in:
+
+Koodaan liikaa...
+
+Phukseilla on vielä paljon edessään,
+Ei Lue-luokka c:ssä autakaan.
+Koodata saa täällä henkens' edestään,
+sen jälkeen kömpii ASkiin nukkumaan!
+
+Koodaan liikaa...
+
+Koodaan liikaa...
+
+---END---

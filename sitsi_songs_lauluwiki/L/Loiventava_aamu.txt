@@ -1,0 +1,18 @@
+Title: Loiventava aamu
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Ihana aamu
+Tags: Krapulalaulut
+
+---LYRICS---
+
+Kun viinipullon auki saan 
+ja punaviini virtaa minun lasissain,
+niin hyvänolon hiipivän mä tunnen suonissain.
+Siihen mä jään.
+Sä viet mun pullon hiljaa varoen.
+Sanot: "kultasein, nyt on sunnuntai".
+
+---END---

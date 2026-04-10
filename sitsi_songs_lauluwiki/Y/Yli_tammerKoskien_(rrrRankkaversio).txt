@@ -1,0 +1,21 @@
+Title: Yli tammerKoskien (rrrRankkaversio)
+Category: Y
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Sobre las olas - Yli Koskien
+Tags: Olutlaulut
+
+---LYRICS---
+
+On saavimme tää,
+täynnä poikaa niin virkistävää
+Kun kurkkua päiin
+sitä heitämme laulaen näin.
+
+Jos krapulankin
+saamme jälkeen tän juomingin,
+se OTaniemeen jää.
+Matka jatkuu kun poikaa riittää!
+
+---END---

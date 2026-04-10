@@ -1,0 +1,25 @@
+Title: Poliisilaulu
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut Lastenlaulut
+
+---LYRICS---
+
+:,: Minä seison keskellä katua,
+sillä olen poliisi. :,:
+:,: Ja enkä minä tässä seisoisi,
+ellen poliisi olisi. :,:
+
+:,: Minä laulan keskellä katua,
+sillä olen teekkari. :,:
+:,: Ja enkä minä tässä laulaisi,
+ellen teekkari olisi. :,:
+
+:,: Minä ryömin keskellä katua,
+sillä olen phuksi. :,:
+:,: Ja enkä minä tässä ryömisi,
+ellen phuksi mä olisi :,:
+
+---END---

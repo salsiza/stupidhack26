@@ -1,0 +1,13 @@
+Title: Pyörällä duuniin
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Born to be Wild
+Tags: Muut laulut
+
+---LYRICS---
+
+Tämä klassikko puuttuu, pitääpä lisätä!
+
+---END---

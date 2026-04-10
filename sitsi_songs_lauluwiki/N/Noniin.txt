@@ -1,0 +1,14 @@
+Title: Noniin
+Category: N
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Lumikki ja seitsemän kääpiötä "Hey Ho"
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+No niin no niin no niin no niin no niin
+no niin no niin no niin no niin no niin no niin
+
+---END---

@@ -1,0 +1,26 @@
+Title: Eipou ja Mylvari
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Paavi ja Sulttaani
+Tags: Ohjelmointilaulut
+
+---LYRICS---
+
+On Eipoun elo ihanaa, hän ohjelmansa kääntää vaa. 
+:,: On compiler paras ystävä - Oi, jospa Eipou oisin ma. :,: 
+Mutt' ei, ei koskaan kokee saa, hän windows-koneen helpoutta. 
+:,: Käy psykooseis' nukkumaan - en Eipou olla tahtoiskaan! :,: 
+
+Mutt' Mylvari hän tunkkailee ja DOSiaansa hyväilee. :,: 
+Valmis softa tiedetään - Mylvari oisin mielelläin. :,: 
+Mutt' ei, hän ompi polo mies hänt' painaa lisenssinsä ies. 
+:,: Ei maista avoint' lähdekoodia - en Mylvariksi tahtoiskaan. :,: 
+
+En yksin olla tahtoisi mä Eipou enkä Mylvari. 
+:,: Mutt' vuoroin kummankin psykoosiin mä mielelläni vaipuisin. :,: 
+Googlaan helpon vastauksen , oon Mylvari mä hetkisen. 
+:,: Hei, Stallman, Gentoot' käännetää, kun Eipouks' muuttuu poika tää. :,:
+
+---END---

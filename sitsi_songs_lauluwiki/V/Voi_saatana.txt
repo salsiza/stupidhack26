@@ -1,0 +1,14 @@
+Title: Voi saatana
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Oi kuusipuu
+Tags: Muut laulut Koulutuspoliittiset
+
+---LYRICS---
+
+:,: Voi saatana, ai perkele,
+Ei jumalauta, vittu. :,:
+
+---END---

@@ -1,0 +1,19 @@
+Title: Pykäläläinen
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Poikkitieteelliset
+
+---LYRICS---
+
+Teekkarit on perseestä, perseestä, perseestä.
+Teekkarit on perseestä, ihan kaikki.
+
+Fyysikot on syvältä, syvältä, syvältä,
+Fyysikot on syvätä, ihan kaikki.
+
+Pykälä on kiva paikka, kiva paikka, kiva paikka.
+Pykälä on kiva paikka, kiva paikka
+
+---END---

@@ -1,0 +1,53 @@
+Title: Irkkaaja
+Category: I
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Egotrippi - Matkustaja
+Tags: Ohjelmointilaulut
+
+---LYRICS---
+
+Yöllä irkkikannulla
+Yksi väsynyt koodaaja
+Välkkyvästä terminaalista
+Katsoo vaihtuvat ikkunat
+Laskee yksinpuhujat
+Minuutit kun ohi vilahtavat
+Tietäen kilta mikään muu ei
+Oisi voinut olla
+Se oikea
+
+-Kertsi:-
+!aivansamalla kaikuivat kuulutukset
+Mouhona jota pakoon ei pääse
+Liityt kiltaan kerran
+Oot killassa
+Aina
+Aina kannulla jollakin
+
+Luennolle jos päätyykin
+On keskittyminen jossain
+Tietää sen varsin hyvin itsekin
+On olemassa opintoja
+Niin vaativia ja vaikeita
+Ettei niistä kavereitta selviä
+
+-Kertsi-
+
+Aina
+Aina
+
+Yöllä irkkikannulla
+Yksi väsynyt koodaaja
+
+-Kertsi-
+
+!aivansamalla kaikuivat
+!aivansamalla kaikuivat
+!aivansamalla kaikuivat
+Oot killassa
+Aina
+Aina
+
+---END---

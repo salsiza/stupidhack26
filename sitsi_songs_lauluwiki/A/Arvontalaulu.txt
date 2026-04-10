@@ -1,0 +1,16 @@
+Title: Arvontalaulu
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut laulut
+
+---LYRICS---
+
+Kun arvontalaulu raikaa, on arvonnan aika
+Kelle nalli napsahtaa, nalli napsahtaa
+
+On arvontalaulu raikaa, on arvonnan aika
+Kelle nalli napsahtaa, nalli napsahtaa
+
+---END---

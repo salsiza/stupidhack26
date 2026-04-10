@@ -1,0 +1,21 @@
+Title: Takki pois
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Takki pois
+Tags: Interaktiiviset
+
+---LYRICS---
+
+Hei takki poies kiskaiskaamme,
+on Polin poikain tapa tää.
+:,: Ja sitten laulu laulakaamme,
+niin että katto tärähtää. :,:
+
+Me emme laulamasta lakkaa,
+ennen kuin aamu sarastaa.
+:,: Ei täältä kesken poistutakkaan,
+tääll’ juodaan kautta Pohjanmaan. :,:
+
+---END---

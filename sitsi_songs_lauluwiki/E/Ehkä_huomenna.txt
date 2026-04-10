@@ -1,0 +1,24 @@
+Title: Ehkä huomenna
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Esli Zavtra Voina
+Tags: Krapulalaulut
+
+---LYRICS---
+
+Ehkä huomenna on
+olomme onneton
+-- koko maailma päällemme kaatuu.
+Siitä viis veisaamme,
+huolet pois heitämme
+-- ylihuominen ajallansa saapuu.
+
+Me juomme, se anteeksi suokaa,
+ehkä huomenna maksa huokaa,
+:,: mutta nyt meillä on
+jano sammumaton,
+Jaloviinaa siis pöytäämme tuokaa! :,:
+
+---END---

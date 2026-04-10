@@ -1,0 +1,22 @@
+Title: Hullu täffäläinen
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hullu kirvesmies (Budabestin Yössä)
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Illalla kun täffäläinen vallan saa
+Hän ulkoistaa sut merten taa
+Siellä missä ruotsin kieli kajahtaa
+Ja lippukin on sinisin.
+
+:,: Herregud, nu blir det kräftkalas!
+Helan går, och så ska Halvan dras.
+Varför göra annorlunda
+Båten går ju någorlunda,
+Helan, Halvan, Tersen, Kvarten tas. :,:
+
+---END---

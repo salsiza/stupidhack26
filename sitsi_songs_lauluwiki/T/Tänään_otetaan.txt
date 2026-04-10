@@ -1,0 +1,28 @@
+Title: Tänään otetaan
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Snapsilaulut
+
+---LYRICS---
+
+:,: Tänään otetaan, tänään otetaan
+helvetin paljon viinaa. :,:
+:,: Huomenna on, huomenna on
+helvetin kova krapula. :,:
+
+:,: I dag ska vi ha, i dag ska vi ha
+helvetes mycket brännvin. :,:
+:,: I morgon ska vi ha, i morgon ska vi ha
+helvetes kova krapula. :,:
+
+:,: Täna võtame, täna võtame
+kuradima palju viina. :,:
+:,: Homme meil on, homme meil on
+kuradima kõva pohmakas. :,:
+
+:,: Odne mii váldit, odne mii váldit, heleveha ollu viinna :,:
+:,: ihttin mis lea, ihttin mis lea, heleveha gara gomá :,:
+
+---END---

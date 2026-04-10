@@ -1,0 +1,23 @@
+Title: Hullu Skumppaphuksi
+Category: H
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hullu Kirvesmies
+Tags: Muut laulut
+
+---LYRICS---
+
+Kun ulliksella AS-phuksi skumppaa saa,
+se johdattaa hyvään tunnelmaan
+Siellä missä pullo auki paukahtaa
+ja taivaskin on sinisin
+
+Nauraen taas lasin kohottaa
+Huomaa sen, jo kuplat kutittaa
+
+Vaikk' on taju himmennytkin
+skumppa maistuu vielä nytkin
+oli halpaa taikka samppanjaa
+
+---END---

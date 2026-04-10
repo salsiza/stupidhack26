@@ -1,0 +1,21 @@
+Title: Pienet aaltolaiset
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pienet sammakot
+Tags: Poikkitieteelliset Aalto-laulut
+
+---LYRICS---
+
+:,: Pienet teekkarit, pienet teekkarit niin lystikkäitä on :,:
+Ei naisia, ei naisia, ei naisia milloinkaan.
+Ei naisia, ei naisia, ei saa ne milloinkaan.
+
+:,: Pienet kylterit, pienet kylterit niin lystikkäitä on :,:
+:,: Ei sielua, ei sielua, ei sielua ollenkaan :,:
+
+:,: Pienet artistit, pienet artistit ne sekaisin vaan on :,:
+:,: Ei fyffeä, ei fyffeä, ei fyffeälaisinkaan :,:
+
+---END---

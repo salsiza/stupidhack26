@@ -1,0 +1,21 @@
+Title: Kaljalle ja Lonkerolle
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Kalliolle kukkulalle
+Tags: Muut juomalaulut Olutlaulut
+
+---LYRICS---
+
+Kaljalle ja lonkerolle
+Ojennan minä lasini.
+Tule, tule, tarjoilija
+Täyttämään minun maljani.
+
+Jollen huurteista nyt saa,
+Niin lähden toiseen kapakkaan.
+Muille maille vierahille,
+Jotta tuopin uuden saan.
+
+---END---

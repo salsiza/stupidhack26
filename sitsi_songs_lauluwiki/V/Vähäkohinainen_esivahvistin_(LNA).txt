@@ -1,0 +1,43 @@
+Title: Vähäkohinainen esivahvistin (LNA)
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Badding - Paratiisi
+Tags: Ohjelmointilaulut
+
+---LYRICS---
+
+Vähäkohinainen esivahvistin (LNA)
+säv. Badding - Paratiisi
+
+
+Kun mä Smithin kohtasin, oli aihe hankalin
+suunnittele radioon esivahvistin
+Sinä sanoit menkäämme, impedanssitasolle
+mietin nyt juttu tää onnistuu
+
+Tulolle kun saavuttiin, sarjakela tuoksui niin
+kondensaattori rinnalle vaadittiin
+heti kantaan kuljettiin, emitteri skipattiin
+oli vahvistus niin huumaavaa
+
+   Oi jos sulle voisin antaa radion kauneimman
+   Tää on esiaste kaskaadin valtaavan
+   mutta enhän sitä tee, suunnittelu etenee
+   tulon puoli pitää vielä sovittaa
+
+Johtoon kela kiedottiin, reaktanssia piiriin
+kondensaattorin admittanssia tarvittiin
+Friin kaavaa heitit kai, kohinakertoimelle vain
+näillä desibeleillä puhuu kuiskuttain
+
+   Oi jos sulle voisin antaa radion kauneimman
+   Tää on esiaste kaskaadin valtaavan
+   enempää en tälle tee, pieni testi riittänee
+   simulaattori sen hoitaa saa
+
+
+(hakusanat: LNA Oulun Sähköinsinöörikilta SIK)
+
+---END---

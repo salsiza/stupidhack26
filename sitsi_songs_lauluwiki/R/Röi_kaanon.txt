@@ -1,0 +1,16 @@
+Title: Röi kaanon
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Olutkaanon
+Tags: Muut laulut
+
+---LYRICS---
+
+:,: Lemminkäinen :,:
+:,: YIT :,:
+:,: Crano ja Skanska :,:
+:,: SRV :,:
+
+---END---

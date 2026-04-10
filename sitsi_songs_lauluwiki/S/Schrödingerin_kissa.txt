@@ -1,0 +1,16 @@
+Title: Schrödingerin kissa
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hämä-hämä-häkki
+Tags: Poikkitieteelliset
+
+---LYRICS---
+
+Schrödingerin kissa oli laatikossa,
+Kissa oli kuollut taikka sitten ei,
+Laplace sekä Maxwell löivät vetoa.
+Schrödingerin kissa oli ELOSSA/KUOLLUT
+
+---END---

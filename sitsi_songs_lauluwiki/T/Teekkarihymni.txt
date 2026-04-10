@@ -1,0 +1,14 @@
+Title: Teekkarihymni
+Category: T
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Viralliset
+
+---LYRICS---
+
+:,: Yö kuin sielu teekkarin on pimiä, takajoukko nukkuu vain, nukkuu vain. Tarhapöllön ääni kimiä
+kuuluu pappilasta päin, kuuluu päin. 
+Ja taas, ja siis, ja yks kaks kolme neljä viis. :,:
+
+---END---

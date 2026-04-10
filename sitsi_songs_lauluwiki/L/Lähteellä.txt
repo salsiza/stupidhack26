@@ -1,0 +1,26 @@
+Title: Lähteellä
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: F.A.Ehrström - Vid en källa (Lähteellä)
+Tags: Snapsilaulut
+
+---LYRICS---
+
+Oi snapsi kallis edessäin,
+mä sulle laulan näin.
+:; Ain' kirkkaana mun kädessäin
+teet juhlan, ystäväin. :;
+
+Oi juoma uljas jumalten,
+en sua ma voittaa vois.
+:; Mä yrittää jos rohkenen,
+ne muistot pyyhit pois.:;
+
+Oi snapsi armas kultainen,
+sä ymmärräthän sen.
+:; Mä jälkeen ensi suukkosen
+sain janon ikuisen. :;
+
+---END---

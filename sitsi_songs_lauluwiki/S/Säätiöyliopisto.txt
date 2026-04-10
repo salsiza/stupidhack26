@@ -1,0 +1,19 @@
+Title: Säätiöyliopisto
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Seitsemän miehen voima
+Tags: Muut laulut
+
+---LYRICS---
+
+Aalto, Tampereen teknillinen,
+Chalmers, Darthmouth,
+Princeton, Harvard,
+säätiöyliopisto, säätiöyliopisto.
+Säätiöit ei huolet paina
+niillä ompi rahaa aina.
+Säätiöyliopisto, säätiöyliopisto.
+
+---END---

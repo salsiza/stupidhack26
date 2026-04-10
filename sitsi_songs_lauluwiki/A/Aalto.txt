@@ -1,0 +1,30 @@
+Title: Aalto
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Kaapo-lastenohjelman tunnari
+Tags: Poikkitieteelliset Aalto-laulut Lastenlaulut
+
+---LYRICS---
+
+Oon parikymppinen,
+innovatiivinen,
+yliopistoni on: Aalto.
+
+On paljon pöhinää,
+tyhjästä höpinää,
+edistyksenharjalla, Aalto
+
+Tutkinnot muuttuu, niin nimikin,
+kirkkailla väreillä brändäsin!
+
+Opiskelen taidetta,
+tekniikkaa tai taloutta,
+yliopistoni on: Aalto.
+
+Aalto, Aalto, vain Aalto,
+tidididittidittidi,
+Hei vain!
+
+---END---

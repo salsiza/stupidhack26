@@ -1,0 +1,30 @@
+Title: Rankkarock
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Eppu Normaali - Poliisi pamputtaa taas
+Tags: Olutlaulut
+
+---LYRICS---
+
+Aasi se ajaa violetilla bussilla, uaa, violetilla bussilla
+Aasilla on, stereot katolla, uaa, stereot katolla
+Illalla “pamputtaa” kumisella “pampulla”, uaah, kumisella pampulla
+Poliisi uhkaa aaseja putkalla, uaa, aaseja putkalla
+
+On mukavaa herätä boomilaaksosta, uaa, boomilaaksosta
+Aamulla hörpätä hehkuviinipullosta, uaa, hehkuviinipullosta!
+
+Pahalle haisee se aasin on työ
+Kimble-ringissä triploja syö
+
+On mukavaa herätä boomilaaksosta, uaa, boomilaaksosta
+Aamulla hörpätä hehkuviinipullosta, uaa, hehkuviinipullosta!
+
+Aasi se ajaa violetilla bussilla, uaa, violetilla bussilla
+Aasilla on, stereot katolla, uaa, stereot katolla
+Illalla “pamputtaa” kumisella “pampulla”, uaah, kumisella pampulla
+Poliisi uhkaa aaseja putkalla, uaa, aaseja putkalla
+
+---END---

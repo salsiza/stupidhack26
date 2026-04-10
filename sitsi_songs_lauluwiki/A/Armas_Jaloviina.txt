@@ -1,0 +1,16 @@
+Title: Armas Jaloviina
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Romanssi
+Tags: Aveclaulut
+
+---LYRICS---
+
+Sua vain yli kaiken mä rakastan
+olet armaani päällä maan.
+Vaikka pohjaan asti sut kumoan,
+pian nähdään me uudestaan.
+
+---END---

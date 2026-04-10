@@ -1,0 +1,31 @@
+Title: Kännimaa
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Joulumaa
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Kännimaahan lukkareilta moni tietä kysyy,
+sinne saattaa löytää, vaikka pöydässänsä pysyy.
+Katson snapsilasia ja ootan unohdusta,
+sitsikansan teoissa on pala kadotusta.
+
+Kännimaa on muutakin kuin pelkkää toiveunta.
+Kännimaa on ihmismielen rauhan valtakunta.
+Eikä sinne matka silloin kovin kauan kestä,
+Kännimaa kun teekkarilta löytyy sydämestä!
+
+Kännimaasta kuvitellaan paljon kaikenlaista,
+kuinka miehet komistuu ja on niin satumaista.
+Kun pöytäavec ongelmistaan koko illan jauhaa,
+glögilasin pohjalta mä löydän mielenrauhaa!
+
+Kännimaa on muutakin kuin alku sekä loppu.
+Kännimaa on huoleton ja siellä ei oo hoppu.
+Eikä meitä kukaan siellä ryyppäämästä estä,
+kännimaa kun teekkareilta löytyy sydämestä!
+
+---END---

@@ -1,0 +1,17 @@
+Title: rrrRankkabussin kaanon
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pikkukakkosen posti
+Tags: Muut teekkarilaulut Lastenlaulut
+
+---LYRICS---
+
+rrrRankkabussin kaanon
+Etupenkillä jotkut osaa laulaa
+Takapenkin kimblerinki 
+Ei osaa pätkääkään
+rrrRankkabussin kaanon
+
+---END---

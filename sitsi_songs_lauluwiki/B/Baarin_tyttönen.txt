@@ -1,0 +1,15 @@
+Title: Baarin tyttönen
+Category: B
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Niin minä neitonen
+Tags: Snapsilaulut
+
+---LYRICS---
+
+:,: Niin baarin tyttönen sinulle laulan, kuin omalle pullolleni. :,:
+
+Jos olis viinaa niin kuin on mieli, niin joisin vielä yhdet!
+
+---END---

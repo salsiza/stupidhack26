@@ -1,0 +1,30 @@
+Title: Laulu meistä
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Ensin on teekkari ulioppilas
+hei sillälailla tällälailla ulioppilas,
+ensin on teekkari ulioppilas
+:,: ja sitten on insinööri. :,:
+
+Tupsu se kuuluu teekkarilakkiin
+hei sillälailla tällälailla teekkarilakkiin,
+tupsu se kuuluu teekkarilakkiin
+:,: eikä ole sallittu muille :,:
+
+Jämerä kun käskee insinööri,
+hei sillälailla tällälailla insinööri,
+jämerä kun käskee insinööri
+:,: niin kyllä sen Helsinki huomaa. :,:
+
+Tekniikka, työ ja teekkarihenki,
+hei sillälailla tällälailla teekkarihenki,
+tekniikka, työ ja teekkarihenki,
+:,: ne meillä on voimanamme. :,:
+
+---END---

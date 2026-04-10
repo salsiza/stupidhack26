@@ -1,0 +1,36 @@
+Title: Päihdekaanon
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Jaakko-kulta
+Tags: Olutlaulut
+
+---LYRICS---
+
+:,: Lapin kulta :,:
+:,: Karjala :,:
+:,: Sininen ja Olvi :,:
+:,: Koff, Koff, Koff :,:
+
+:,: Kopparberg :,:
+:,: Golden Cap :,:
+:,: Upcider, Strongbow :,:
+:,: Fizz, Fizz, Fizz :,:
+
+:,: Koskenkorva :,:
+:,: Leijona :,:
+:,: Finlandia, Suomi :,:
+:,: Absolut :,:
+
+:,: Erikeeper :,:
+:,: tärpätti :,:
+:,: Sinoli ja Lasol :,:
+:,: Silver clean :,:
+
+:,: Muuntohuumeet :,:
+:,: LSD :,:
+:,: Hasis sekä ganja :,:
+:,: Si-e-net :,:
+
+---END---

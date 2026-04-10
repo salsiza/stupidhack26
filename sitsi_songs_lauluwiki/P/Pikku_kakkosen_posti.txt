@@ -1,0 +1,24 @@
+Title: Pikku kakkosen posti
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Pikku kakkosen posti
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Pikku kakkosen posti
+PL 347
+33101 Tampere 10
+Pikku kakkosen posti
+
+Pikku kakkosen url
+http://www.yle.fi/~ransu/
+
+Pikku kakkosen Ransu
+Yleisradion kovin jätkä ikinä
+Nelkytä vuotta nyrkki perseessä
+Pikku kakkosen Ransu
+
+---END---

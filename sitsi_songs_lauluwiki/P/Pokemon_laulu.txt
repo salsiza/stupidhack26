@@ -1,0 +1,11 @@
+Title: Pokemon laulu
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+
+---LYRICS---
+
+Mä tunnen sen jo kasvavan voiman sisälläni uuden haasteen toteutan ja teen sen pystypäin takaa vuorten huippujen etsin aina vaan ...
+
+---END---

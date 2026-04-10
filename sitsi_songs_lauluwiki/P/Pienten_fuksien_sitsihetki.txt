@@ -1,0 +1,36 @@
+Title: Pienten fuksien sitsihetki
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Teddy-karhujen huviretki
+Tags: Muut laulut
+
+---LYRICS---
+
+Jos pöytään haluat käydä nyt,
+niin takuulla yllätyt.
+Jos pöytään haluat istua nyt,
+näät lasimme täytetyt.
+Kas pienet fuksit vekkulit on
+nyt käyneet suureen joukkiohon.
+On päivä pienten fuksien sitsihetken.
+
+Vain kiltit iloiset fuksit saa,
+noin sitsejä harrastaa.
+Saa herkut makeat maiskuttaa
+ja nauttia shamppanjaa.
+Nytpä laulu raikaa niin, 
+(ett’) “Kippis!” Maljat pohjaan siis! 
+On päivä pienten fuksien sitsihetken. 
+
+Sitsit pienten fuksien niin nöpönassujen,
+on hauskoja kerrassaan. 
+“Muuten hyvä talo on”, käyn kanssa fuksein 
+kilpaa huutamaan. 
+Gongin jälkeen laulu soi siel’ <nimi> lukkaroi.
+On olo niin huoleton. 
+Vaan kello kuusi I ja E vie fuksit nukkumaan
+ja uupuneet pikkufuksit on.
+
+---END---

@@ -1,0 +1,17 @@
+Title: K&R Shangri-La
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Tapio Rautavaara - Mannakorven mailla, tai vaikka Paleface - Helsinki - Shangri-La
+Tags: Ohjelmointilaulut
+
+---LYRICS---
+
+C++-ohjelmissa muistivuodot aina vaanii
+Pellet vm-kielet nykyselaimessa pyörii
+Hurraa huh hah hei! 
+On aika roskienkeruun, eihän käyttäjää
+sekunnin viive haitanne.
+
+---END---

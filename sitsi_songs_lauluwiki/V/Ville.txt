@@ -1,0 +1,25 @@
+Title: Ville
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Kehdossa nukkuu pikkuinen Ville,
+tuuvi-tuuvi-tuuvi-tuuvi.
+Kasvata Luoja kikkeli sille,
+tuuvi-tuuvi-tuuvi-tuuvi.
+
+Sitten, kun Ville suureksi kasvaa,
+tuuvi-tuuvi-tuuvi-tuuvi.
+Sitten ne vasta Villelle maksaa,
+tuuvi-tuuvi-tuuvi-tuuvi.
+
+Ei saa lapselle hävytöntä laulaa,
+tuuvi-tuuvi-tuuvi-tuuvi.
+Vaan sille pittää kaunista laulaa,
+liiku-liiku-liiku-liiku.
+
+---END---

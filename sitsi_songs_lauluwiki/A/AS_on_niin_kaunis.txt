@@ -1,0 +1,25 @@
+Title: AS on niin kaunis
+Category: A
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Maa on niin kaunis
+Tags: Viralliset
+
+---LYRICS---
+
+AS on niin kaunis,
+Askin sohva ihana,
+ihana on koodaajan toiviotie.
+TUAS-talon kautta
+kuljemme laulain,
+Askia kohti matka vie.
+
+Kiitävi aika,
+vierähtävät vuodet,
+opinnot vaipuvat unholaan.
+Kirkasna aina
+huutomme: aivan
+sama! säilyy vaan.
+
+---END---

@@ -1,0 +1,25 @@
+Title: ELEC/AS-hymni
+Category: E
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: SIK-hymni
+Tags: Viralliset
+
+---LYRICS---
+
+Kun mä phuksina tänne taapersin,
+en tiennyt mitä säätö on.
+Meni innosta pieni pääni sekaisin,
+laulukirja oli tarpeeton
+
+Mulla kalmansuodin, Nyquist ja LQ-säädin
+oli öisinkin mielessä.
+Hetken taistelin, itkin, sitten ymmärsin:
+tässä jotakin on pielessä.
+
+:,: Sillä arvonimi teekkari sovi sulle ei,
+jos vain Laplace aikasi vei.
+Kylmää poikaa juo ja nauti nuoruudesta :,:
+
+---END---

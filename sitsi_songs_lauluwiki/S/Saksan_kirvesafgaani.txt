@@ -1,0 +1,22 @@
+Title: Saksan kirvesafgaani
+Category: S
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Hullu kirvesmies
+Tags: Muut teekkarilaulut
+
+---LYRICS---
+
+Saksassa kun islamisti kirveen saa,
+Hän luikahtaa sun selän taa.
+Siellä missä lähijuna taivaltaa,
+Ja vaunukin on punaisin.
+
+Myöhemmin poliisi soiton saa,
+Hullu juoksee mutta kiinni jää.
+Vaik' on ruumis kylmennytkin,
+Poket ampuu vielä nytkin,
+Islamistia maassa makaavaa
+
+---END---

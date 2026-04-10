@@ -1,0 +1,28 @@
+Title: Che Guevara
+Category: C
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Naapurin täti lähti matkoille
+Tags: Interaktiiviset
+
+---LYRICS---
+
+Che Guevara lähti retkelle,
+toi mukanaan tuliaisia,
+paljon hauskoja asioita,
+kysy vaan reilusti millaisia!
+
+No millaisia?
+
+Iso rommipullo
+
+Tosi paksu sikari
+
+Pieni sinko
+
+Ontuva jalka
+
+Astmakohtaus
+
+---END---

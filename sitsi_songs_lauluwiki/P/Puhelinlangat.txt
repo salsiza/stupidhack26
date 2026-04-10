@@ -1,0 +1,26 @@
+Title: Puhelinlangat
+Category: P
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Puhelinlangat laulaa
+Tags: Muut laulut
+
+---LYRICS---
+
+Puhelinlangat kaulaan,
+ja töpseli perseeseen.
+Kaikista kurjimman kohtalon,
+mulle elämä tarjosi.
+
+Isäni kuoli viinaan,
+äiti paskalle ammuttiin.
+Veljeni hirtettiin vankilassa ja
+siskoni pantiin puhki.
+
+Puhelinlangat kaulaan,
+ja töpseli perseeseen.
+Kytkentä tuhanteen volttiin,
+sillä pääsen mä taivaaseen.
+
+---END---

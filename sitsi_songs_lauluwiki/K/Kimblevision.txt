@@ -1,0 +1,22 @@
+Title: Kimblevision
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Eurovision
+
+---LYRICS---
+
+Ranskassa pelataan tunteilla
+Saksassa kaasulla
+Venäjällä vodkaa
+Suomessa pelataan kimbleä
+siis tuplamiina antakaa
+
+Brasseissa pelataan fudista
+Jenkeissä jefua
+Kanadassa lätkää
+Suomessa pelataan kimbleä
+siks triplal quatron naksautan
+
+---END---

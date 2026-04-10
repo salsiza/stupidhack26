@@ -1,0 +1,21 @@
+Title: Kimble (lärvit)
+Category: K
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Lärvit
+
+---LYRICS---
+
+:,:Kimble, ki-ki-ki-kimble, ki-ki-ki-kimble
+Nyt pelataan:,:
+
+Kun ensin painaa tuota kupua kohoavaa,
+Niin tupla kutoset sieltä saan
+Ja siihen päälle pari miinaruutua
+Niin siitä vasta peli käynnistyy.
+
+:,:Kimble, ki-ki-ki-kimble, ki-ki-ki-kimble
+Nyt pelataan:,:
+
+---END---

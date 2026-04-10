@@ -1,0 +1,21 @@
+Title: Oodi talolle
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Oodi ilolle
+Tags: Muut juomalaulut
+
+---LYRICS---
+
+Muuten hyvä talo, mutta
+mielemme halajaa laulella.
+Ehkä sitten laulun jälkeen
+kurkkua hieman kastella.
+Lasit siis kumohon,
+siitä se lähtee.
+Ollaan jälleen humalassa.
+Ja onhan sitten talokin taasen
+kaikin puolin kunnossa!
+
+---END---

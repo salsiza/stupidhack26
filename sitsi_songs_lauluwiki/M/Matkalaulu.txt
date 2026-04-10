@@ -1,0 +1,35 @@
+Title: Matkalaulu
+Category: M
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Matkalaulu
+Tags: Muut laulut
+
+---LYRICS---
+
+Saavuinpa tänne nyt sitsaamaan,
+kaikkia vielä en tunnekkaan.
+Jos mua hiukkasen onnistaa,
+niin uuden ystävän saan.
+
+Saavunpa keskelle AS-maan,
+laukussa jalluu ja kossuu vaan.
+Yksin ei tarvitse ollakkaan,
+nyt uuden ystävän saan.
+:,: Kun sanon päivää, hän sanoo AIVAN SAMA! :,:
+
+Saavunpa keskelle ________-maan,
+laukussa jalluu ja kossuu vaan.
+Yksin ei tarvitse ollakkaan,
+nyt uuden ystävän saan.
+:,: Kun sanon päivää, hän sanoo _________ :,:
+
+-----
+
+Saavunpa keskelle malloc-maan,
+muistissa pelkkiä vuotoja vaan.
+Jos mua hiukkasen onnistaa niin koodini kääntymään saan.
+:,: Kun sanon COMPILE, hän sanoo SEGFAULT! :,:
+
+---END---

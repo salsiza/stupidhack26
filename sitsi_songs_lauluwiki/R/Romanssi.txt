@@ -1,0 +1,26 @@
+Title: Romanssi
+Category: R
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Romanssi
+Tags: Serenadit
+
+---LYRICS---
+
+Sua vain yli kaiken mä rakastan,
+sinä taivaani päällä maan.
+:,: Minä maiset murheeni unohdan
+sinisilmiis' kun katsoa saan. :,:
+
+Ylin riemuni oot mitä toivoisin,
+sä kun istut mun rinnallain.
+Olet kaikkeni, aarteeni kallehin,
+olet onneni, unelmain.
+
+Oi, sallithan, että mä suutelen
+sinisilmiäs’, armahain.
+:,: Mä jos kauaks’ sun luotasi joutunen,
+kuvas’ seuraa mun matkallain. :,:
+
+---END---

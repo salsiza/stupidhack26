@@ -1,0 +1,53 @@
+Title: Viikonpäivät - Maanantaina maksa meni
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Viikonpäivät (Maanantaina mamma meni)
+Tags: Lastenlaulut
+
+---LYRICS---
+
+Maanantaina maksa meni,
+kun maikoisasti maisteltiin
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Tiistaina tissuteltiin
+ja timmistikin tinattiin.
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Keskiviikon keskipäivään
+kestänyt ei kellään SELVÄNÄ!
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Torstaina totisesti
+toiset tuopit tilattiin.
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Perjantaina perinteiset
+perusperseet vedettiin.
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Lauantaina laatta lensi
+kun Lasolia lantrailtiin.
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+Sunnuntaina suosiolla
+Suomi-skumpat suupattiin.
+Se päivä oli iloinen...
+**glunks**
+... vaan nyt se on jo eilinen.
+
+---END---

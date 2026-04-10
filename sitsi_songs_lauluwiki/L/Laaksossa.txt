@@ -1,0 +1,21 @@
+Title: Laaksossa
+Category: L
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Laaksossa
+Tags: Serenadit
+
+---LYRICS---
+
+Yksi ruusu on kasvanut laaksossa
+ja se kauniisti kukoistaa.
+:,: Yksi kulkijapoika on nähnyt sen,
+eikä voi sitä unhoittaa. :,:
+
+Ja sen olisi kyllä hän poiminut
+ja sen painanut povelleen,
+:,: mutta köyhänä ei ole tohtinut,
+vaan on jättänyt paikoilleen. :,:
+
+---END---

@@ -1,0 +1,16 @@
+Title: Otaniemessä kulkevi teekkarin tie
+Category: O
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Maan korvessa kulkevi lapsosen tie
+Tags: Aalto-laulut
+
+---LYRICS---
+
+Otaniemessä kulkevi teekkarin tie
+Hänt' selvempi ystävä kotihin vie
+Niin pitkä on matka ei avainta näy
+:,: Jo kiltiksen sohvalle päänsä taas käy :,:
+
+---END---

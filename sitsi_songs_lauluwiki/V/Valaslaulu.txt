@@ -1,0 +1,21 @@
+Title: Valaslaulu
+Category: V
+Source: https://lauluwiki.fi/
+Source_Type: Lauluwiki
+Type: sitsi_song
+Melody: Valalaulu
+Tags: Muut laulut
+
+---LYRICS---
+
+Kuullos sinivalas: "Myomuimyamumoo
+myomiumyamiymaumou." Kuitenkaan et saa.
+:,: Sua metsästämme, rasvaas’ purkitamme.
+Ollos suoleton, sukus kuollut on. :,:
+
+Kuullos sinivalas: "Myomuimyamumoo
+myomiumyamiymaumou." Vieläkään et saa.
+:,: Harppuunamme osuu, alkaa virrenveisuu:
+"Myomiumyamiymau moumyaarmuamoumaargh!" :,:
+
+---END---
