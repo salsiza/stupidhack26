@@ -17,7 +17,7 @@ export function buildPrompt(lyrics, instructions) {
 }
 
 export function buildBridgePrompt(songName) {
-  return BRIDGE_PROMPT_TEMPLATE.replace('{songName}', songName);
+  return BRIDGE_PROMPT_TEMPLATE(songName);
 }
 
 let currentPrompt = '';

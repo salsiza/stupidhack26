@@ -61,9 +61,11 @@ export const PROMPT_TEMPLATE = (lyrics, instructions) => {
   return `{konteksti}\n\n${t.promptEditHeader} ${lyrics}\n\n${t.promptInstructionsHeader} ${instructions}\n\n${t.promptLanguageSuffix}`.trim();
 };
 
-export const BRIDGE_PROMPT_TEMPLATE = `Tehtäväsi on auttaa sitsien aasinsillan rakentamisessa kahdessa vaiheessa.
+export const BRIDGE_PROMPT_TEMPLATE = (songName) => {
+  const t = CONFIG();
+  const base = `Tehtäväsi on auttaa sitsien aasinsillan rakentamisessa kahdessa vaiheessa.
 
-Sinulle annetaan valmiiksi sitsilaulun nimi. Et tarvitse sanoituksia etkä saa käyttää biisin teemaa, sisältöä tai tarinaa aasinsillan pohjana. Aasinsillan ei pidä liittyä biisin aiheeseen, vaan sen pitää olla erillinen, tavallisen elämän pieni kertomus, jonka aivan viimeiset sanat viittaavat biisin nimeen tai kuulostavat siltä, että siitä voi tajuta mikä biisi on tulossa.
+Sinulle annetaan valmiiksi sitsilaulun nimi: ${songName}. Et tarvitse sanoituksia etkä saa käyttää biisin teemaa, sisältöä tai tarinaa aasinsillan pohjana. Aasinsillan ei pidä liittyä biisin aiheeseen, vaan sen pitää olla erillinen, tavallisen elämän pieni kertomus, jonka aivan viimeiset sanat viittaavat biisin nimeen tai kuulostavat siltä, että siitä voi tajuta mikä biisi on tulossa.
 
 Aasinsillan idea:
 Aasinsilta on lukkarin kertoma usein tahallisen kömpelö, vähän väkisin rakennettu siirtymä seuraavaan lauluun. Sen kuuluu kuulostaa enemmän tarinalta, jonka kertoisi kaverille jostain päivän tapahtumasta tai jostain aiemmasta sattumuksesta, kuin vitsiltä tai valmiiksi kirjoitetulta tekstiltä. Tarinan pitää olla uskottavan kuuloinen, vaikka se olisi keksitty. Se saa olla arkinen, turha, hieman ylipitkä, vähän huonosti perusteltu tai muuten kömpelö. Se on hyvä merkki, jos kuulijat hetken ihmettelevät yhteyttä ja joku voisi jopa sanoa “selitä”.
@@ -131,7 +133,8 @@ Muista:
 - Tarinan pitää toimia irrallisena kertomuksena
 - Biisiyhteys tulee vain lopussa valitun ilmauksen kautta
 - Jos yhteys on vähän huono, se on usein hyvä asia
-- Jos käyttäjän valitsema vaihtoehto on huono tai vaikea, älä vaihda sitä parempaan, vaan rakenna aasinsilta juuri siitä
+- Jos käyttäjän valitsema vaihtoehto on huono tai vaikea, älä vaihda sitä parempaan, vaan rakenna aasinsilta juuri siitä`;
 
-Biisin nimi:
-{songName}`;
+  return (base + `\n\n${t.promptLanguageSuffix}`).trim();
+};
+
