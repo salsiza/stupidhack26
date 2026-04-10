@@ -1,27 +1,65 @@
-export const CONFIG = {
-  appName: 'Sitsi laulun muokkaus ohjelma',
-  chatgptUrl: 'https://chat.openai.com',
-  dialogHeadline: "Me ei makseta API laskuja tuosta paskasta",
-  copyButtonText: 'Kopioi prompti & avaa ChatGPT',
-  searchPlaceholder: '🔍 Etsi biisiä...',
-  songListTitle: 'SITSILAULUT',
-  previewTitle: 'Alkuperäiset sanat',
-  customLyricsLabel: 'Etkö löydä biisiä? Kirjoita se tähän',
-  alterationLabel: '✏️ MUOKKAUSOHJEET:',
-  alterationPlaceholder: 'esim. "tee tästä laulu kebabista"',
-  generateButtonText: 'Tee see',
-  bridgeTitle: '🪑 AASINSILTAHOMMAT:',
-  bridgeSongLabel: 'Mille biisille tää kömpelö kaarros tehdään?',
-  bridgeSongPlaceholder: 'esim. Paavi ja sulttaani',
-  bridgeButtonText: 'Keksi aasinsilta tästä',
-  previewEmpty: 'Valitse biisi listasta',
+export const TRANSLATIONS = {
+  fi: {
+    appName: 'Sitsi laulun muokkaus ohjelma',
+    chatgptUrl: 'https://chat.openai.com',
+    dialogHeadline: "Me ei makseta API laskuja tuosta paskasta",
+    copyButtonText: 'Kopioi prompti & avaa ChatGPT',
+    searchPlaceholder: '🔍 Etsi sitsilaulu...',
+    songListTitle: 'SITSILAULUT',
+    previewTitle: 'Alkuperäiset sanat',
+    customLyricsLabel: 'Etkö löydä sitsilauluasi? Kirjoita se tähän',
+    alterationLabel: '✏️ MUOKKAUSOHJEET:',
+    alterationPlaceholder: 'esim. "tee tästä laulu kebabista"',
+    generateButtonText: 'Tee see',
+    previewEmpty: 'Valitse sitsilaulu listasta',
+    customLyricsPlaceholder: 'Liitä tai kirjoita sanat...',
+    promptEditHeader: 'Muokkaa tätä sitsilaulua:',
+    promptInstructionsHeader: 'Muokkausohjeet:',
+    promptLanguageSuffix: '',
+    bridgeTitle: '🪑 AASINSILTAHOMMAT:',
+    bridgeSongLabel: 'Mille biisille tää kömpelö kaarros tehdään?',
+    bridgeSongPlaceholder: 'esim. Paavi ja sulttaani',
+    bridgeButtonText: 'Keksi aasinsilta tästä',
+    bridgeDividerText: 'Laitetaanko vielä aasinsiltahommat kuntoon?',
+  },
+  en: {
+    appName: 'Sitsi Song Editor',
+    chatgptUrl: 'https://chat.openai.com',
+    dialogHeadline: "We aren't paying API bills for that crap",
+    copyButtonText: 'Copy Prompt & Open ChatGPT',
+    searchPlaceholder: '🔍 Search for a sitsi song...',
+    songListTitle: 'SITSI SONGS',
+    previewTitle: 'Original Lyrics',
+    customLyricsLabel: "Can't find your song? Write it here",
+    alterationLabel: '✏️ EDITING INSTRUCTIONS:',
+    alterationPlaceholder: 'e.g. "make this a song about kebab"',
+    generateButtonText: 'Do it',
+    previewEmpty: 'Select a sitsi song from the list',
+    customLyricsPlaceholder: 'Paste or write lyrics...',
+    promptEditHeader: 'Edit this sitsi song:',
+    promptInstructionsHeader: 'Editing instructions:',
+    promptLanguageSuffix: 'Please provide the response in English.',
+    bridgeTitle: '🪑 BRIDGE NONSENSE:',
+    bridgeSongLabel: 'Which song should this awkward segue point to?',
+    bridgeSongPlaceholder: 'e.g. Pope and the Sultan',
+    bridgeButtonText: 'Invent a bridge for this',
+    bridgeDividerText: 'Want to fix the bridge nonsense too?',
+  }
 };
 
-export const PROMPT_TEMPLATE = `{konteksti}
+export let currentLang = localStorage.getItem('lang') || 'fi';
 
-Muokkaa tätä biisiä: {lyrics}
+export function setLang(lang) {
+  currentLang = lang;
+  localStorage.setItem('lang', lang);
+}
 
-Muokkausohjeet: {instructions}`;
+export const CONFIG = () => TRANSLATIONS[currentLang];
+
+export const PROMPT_TEMPLATE = (lyrics, instructions) => {
+  const t = CONFIG();
+  return `{konteksti}\n\n${t.promptEditHeader} ${lyrics}\n\n${t.promptInstructionsHeader} ${instructions}\n\n${t.promptLanguageSuffix}`.trim();
+};
 
 export const BRIDGE_PROMPT_TEMPLATE = `Tehtäväsi on auttaa sitsien aasinsillan rakentamisessa kahdessa vaiheessa.
 

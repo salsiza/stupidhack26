@@ -12,10 +12,8 @@ export async function loadKonteksti() {
 }
 
 export function buildPrompt(lyrics, instructions) {
-  return PROMPT_TEMPLATE
-    .replace('{konteksti}', kontekstiText)
-    .replace('{lyrics}', lyrics)
-    .replace('{instructions}', instructions);
+  return PROMPT_TEMPLATE(lyrics, instructions)
+    .replace('{konteksti}', kontekstiText);
 }
 
 export function buildBridgePrompt(songName) {
@@ -38,10 +36,11 @@ export function closeDialog(overlayEl) {
 }
 
 export async function copyAndRedirect(promptText) {
+  const t = CONFIG();
   try {
     await navigator.clipboard.writeText(promptText);
   } catch {
     // fallback: prompt is already visible in the modal textarea for manual copy
   }
-  window.open(CONFIG.chatgptUrl, '_blank');
+  window.open(t.chatgptUrl, '_blank');
 }

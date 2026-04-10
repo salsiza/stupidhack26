@@ -11,6 +11,8 @@ Sitsilauluissa korostuu selkeä, helposti seurattava rakenne. Tyypillisiä piirt
 
 Aineistossa suuri osa lauluista on juuri tällaisia uudelleensanoituksia tai muunnelmia tunnetuista kappaleista. Tämä on sitsilauluille hyvin tunnusomaista: osallistujien ei tarvitse opetella uutta melodiaa, vaan huomio kohdistuu sanoitusten hauskuuteen.
 
+Anna vastauksena pelkästään laulun sanat, sekä laulun uusi nimi. Anna laulun uusi nimi kopioitavana tekstikenttänä.
+
 ### Rytmi
 
 Rytmi on yleensä:
