@@ -10,7 +10,7 @@ export const CONFIG = {
   alterationLabel: '✏️ MUOKKAUSOHJEET:',
   alterationPlaceholder: 'esim. "tee tästä laulu kebabista"',
   generateButtonText: 'Tee see',
-  previewEmpty: 'Valitse biisi vasemmalta',
+  previewEmpty: 'Valitse biisi listasta',
 };
 
 export const PROMPT_TEMPLATE = `{konteksti}
