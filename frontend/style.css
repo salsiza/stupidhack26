@@ -57,6 +57,28 @@ body {
   letter-spacing: -1px;
 }
 
+.lang-switch {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.lang-switch button {
+  background: var(--white);
+  border: 2px solid var(--black);
+  padding: 4px 8px;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.lang-switch button.active {
+  background: var(--black);
+  color: var(--white);
+}
+
 .search-box {
   position: relative;
   z-index: 1;

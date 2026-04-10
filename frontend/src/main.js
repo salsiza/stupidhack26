@@ -1,4 +1,4 @@
-import { CONFIG } from './config.js';
+import { CONFIG, currentLang, setLang } from './config.js';
 import { filterSongs, onSearchInput } from './search.js';
 import { selectSong, getSelectedLyrics, clearSelection } from './preview.js';
 import { loadKonteksti, buildPrompt, openDialog, closeDialog, copyAndRedirect, getCurrentPrompt } from './dialog.js';
@@ -20,35 +20,41 @@ async function init() {
 
 function render() {
   const app = document.getElementById('app');
+  const t = CONFIG();
+  
   app.innerHTML = `
     <div class="header">
-      <h1>${CONFIG.appName}</h1>
+      <h1>${t.appName}</h1>
+      <div class="lang-switch">
+        <button id="lang-fi" class="${currentLang === 'fi' ? 'active' : ''}">FI</button>
+        <button id="lang-en" class="${currentLang === 'en' ? 'active' : ''}">EN</button>
+      </div>
     </div>
 
     <div class="step">
       <span class="step-number">1.</span>
       <div class="step-content">
         <div class="search-box">
-          <input type="text" id="search" placeholder="${CONFIG.searchPlaceholder}" />
+          <input type="text" id="search" placeholder="${t.searchPlaceholder}" />
         </div>
 
         <div class="panels">
           <div class="song-list">
-            <div class="song-list-title">${CONFIG.songListTitle}</div>
+            <div class="song-list-title">${t.songListTitle}</div>
             <div id="song-items"></div>
           </div>
           <div class="preview">
-            <div class="preview-title">${CONFIG.previewTitle}</div>
+            <div class="preview-title">${t.previewTitle}</div>
             <div id="preview-content">
-              <div class="preview-empty">${CONFIG.previewEmpty}</div>
+              <div class="preview-empty">${t.previewEmpty}</div>
             </div>
           </div>
         </div>
 
         <div class="custom-lyrics">
-          <button class="custom-lyrics-toggle" id="custom-lyrics-toggle">${CONFIG.customLyricsLabel}</button>
+          <button class="custom-lyrics-toggle" id="custom-lyrics-toggle">${t.customLyricsLabel}</button>
           <div class="custom-lyrics-content" id="custom-lyrics-content" style="display:none;">
-            <textarea id="custom-lyrics" placeholder="Liitä tai kirjoita sanat..."></textarea>
+            <textarea id="custom-lyrics" placeholder="${t.customLyricsPlaceholder}"></textarea>
           </div>
         </div>
       </div>
@@ -58,8 +64,8 @@ function render() {
       <span class="step-number">2.</span>
       <div class="step-content">
         <div class="alteration" id="alteration-box">
-          <label>${CONFIG.alterationLabel}</label>
-          <textarea id="alteration" placeholder='${CONFIG.alterationPlaceholder}'></textarea>
+          <label>${t.alterationLabel}</label>
+          <textarea id="alteration" placeholder='${t.alterationPlaceholder}'></textarea>
         </div>
       </div>
     </div>
@@ -68,7 +74,7 @@ function render() {
       <span class="step-number">3.</span>
       <div class="step-content">
         <div class="generate-wrap">
-          <button class="generate-btn" id="generate-btn">${CONFIG.generateButtonText}</button>
+          <button class="generate-btn" id="generate-btn">${t.generateButtonText}</button>
         </div>
       </div>
     </div>
@@ -76,14 +82,15 @@ function render() {
     <div class="modal-overlay" id="modal">
       <div class="modal">
         <button class="modal-close" id="modal-close">✕</button>
-        <h2>${CONFIG.dialogHeadline}</h2>
-        <button class="modal-action" id="modal-action">${CONFIG.copyButtonText}</button>
+        <h2>${t.dialogHeadline}</h2>
+        <button class="modal-action" id="modal-action">${t.copyButtonText}</button>
       </div>
     </div>
   `;
 
   renderSongList(allSongs);
 }
+
 
 function renderSongList(songs) {
   const container = document.getElementById('song-items');
@@ -108,6 +115,18 @@ function bind() {
   const modal = document.getElementById('modal');
   const modalClose = document.getElementById('modal-close');
   const modalAction = document.getElementById('modal-action');
+
+  // Lang switch
+  document.getElementById('lang-fi').addEventListener('click', () => {
+    setLang('fi');
+    render();
+    bind();
+  });
+  document.getElementById('lang-en').addEventListener('click', () => {
+    setLang('en');
+    render();
+    bind();
+  });
 
   // Custom lyrics toggle
   customLyricsToggle.addEventListener('click', () => {
