@@ -169,12 +169,35 @@ body {
   margin-bottom: 16px;
 }
 
-.custom-lyrics label {
+.custom-lyrics-toggle {
   display: block;
+  width: 100%;
+  text-align: left;
   font-family: var(--font-display);
   font-size: 1.1rem;
   font-weight: 700;
-  margin-bottom: 6px;
+  padding: 10px 14px;
+  background: var(--white);
+  border: 3px solid var(--black);
+  cursor: pointer;
+  transform: rotate(0.2deg);
+  color: var(--black);
+}
+
+.custom-lyrics-toggle::before {
+  content: '▸ ';
+}
+
+.custom-lyrics-toggle.open::before {
+  content: '▾ ';
+}
+
+.custom-lyrics-toggle:hover {
+  background: #f0f0f0;
+}
+
+.custom-lyrics-content {
+  margin-top: 8px;
 }
 
 .custom-lyrics textarea {

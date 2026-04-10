@@ -1,7 +1,7 @@
 import { CONFIG } from './config.js';
 import { filterSongs, onSearchInput } from './search.js';
 import { selectSong, getSelectedLyrics, clearSelection } from './preview.js';
-import { loadKonteksti, buildPrompt, openDialog, closeDialog, copyAndRedirect } from './dialog.js';
+import { loadKonteksti, buildPrompt, openDialog, closeDialog, copyAndRedirect, getCurrentPrompt } from './dialog.js';
 
 let allSongs = [];
 
@@ -43,8 +43,10 @@ function render() {
     </div>
 
     <div class="custom-lyrics">
-      <label>${CONFIG.customLyricsLabel}</label>
-      <textarea id="custom-lyrics" placeholder="Liitä tai kirjoita sanat..."></textarea>
+      <button class="custom-lyrics-toggle" id="custom-lyrics-toggle">${CONFIG.customLyricsLabel}</button>
+      <div class="custom-lyrics-content" id="custom-lyrics-content" style="display:none;">
+        <textarea id="custom-lyrics" placeholder="Liitä tai kirjoita sanat..."></textarea>
+      </div>
     </div>
 
     <div class="alteration">
@@ -60,7 +62,6 @@ function render() {
       <div class="modal">
         <button class="modal-close" id="modal-close">✕</button>
         <h2>${CONFIG.dialogHeadline}</h2>
-        <textarea readonly></textarea>
         <button class="modal-action" id="modal-action">${CONFIG.copyButtonText}</button>
       </div>
     </div>
@@ -85,11 +86,21 @@ function bind() {
   const searchInput = document.getElementById('search');
   const previewContent = document.getElementById('preview-content');
   const customLyrics = document.getElementById('custom-lyrics');
+  const customLyricsToggle = document.getElementById('custom-lyrics-toggle');
+  const customLyricsContent = document.getElementById('custom-lyrics-content');
   const alteration = document.getElementById('alteration');
   const generateBtn = document.getElementById('generate-btn');
   const modal = document.getElementById('modal');
   const modalClose = document.getElementById('modal-close');
   const modalAction = document.getElementById('modal-action');
+
+  // Custom lyrics toggle
+  customLyricsToggle.addEventListener('click', () => {
+    const open = customLyricsContent.style.display !== 'none';
+    customLyricsContent.style.display = open ? 'none' : 'block';
+    customLyricsToggle.classList.toggle('open', !open);
+    if (!open) customLyrics.focus();
+  });
 
   // Search
   onSearchInput(searchInput, allSongs, (filtered) => {
@@ -131,8 +142,7 @@ function bind() {
   });
 
   modalAction.addEventListener('click', () => {
-    const promptText = modal.querySelector('.modal textarea').value;
-    copyAndRedirect(promptText);
+    copyAndRedirect(getCurrentPrompt());
   });
 }
 

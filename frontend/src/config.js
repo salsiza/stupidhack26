@@ -1,8 +1,8 @@
 export const CONFIG = {
   appName: 'LONKERON MAKU OUTO',
   chatgptUrl: 'https://chat.openai.com',
-  dialogHeadline: "We're not paying API bills for that shit",
-  copyButtonText: 'Kopioi & avaa ChatGPT',
+  dialogHeadline: "Me ei makseta API laskuja tuosta paskasta",
+  copyButtonText: 'Kopioi prompti & avaa ChatGPT',
   searchPlaceholder: '🔍 Etsi biisiä...',
   songListTitle: 'SITSILAULUT',
   previewTitle: 'Alkuperäiset sanat',

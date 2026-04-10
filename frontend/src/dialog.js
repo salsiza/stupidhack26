@@ -18,10 +18,15 @@ export function buildPrompt(lyrics, instructions) {
     .replace('{instructions}', instructions);
 }
 
+let currentPrompt = '';
+
 export function openDialog(overlayEl, promptText) {
-  const textarea = overlayEl.querySelector('.modal textarea');
-  textarea.value = promptText;
+  currentPrompt = promptText;
   overlayEl.classList.add('open');
+}
+
+export function getCurrentPrompt() {
+  return currentPrompt;
 }
 
 export function closeDialog(overlayEl) {
