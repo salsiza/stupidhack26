@@ -38,7 +38,7 @@ export const TRANSLATIONS = {
     customLyricsPlaceholder: 'Paste or write lyrics...',
     promptEditHeader: 'Edit this sitsi song:',
     promptInstructionsHeader: 'Editing instructions:',
-    promptLanguageSuffix: 'Please provide the response in English.',
+    promptLanguageSuffix: 'IMPORTANT: YOU MUST PROVIDE THE RESPONSE COMPLETELY IN ENGLISH. ALL EXPLANATIONS, LYRICS, AND BRIDGES MUST BE IN ENGLISH.',
     bridgeTitle: '🪑 BRIDGE NONSENSE:',
     bridgeSongLabel: 'Which song should this awkward segue point to?',
     bridgeSongPlaceholder: 'e.g. Pope and the Sultan',
@@ -63,7 +63,7 @@ export const PROMPT_TEMPLATE = (lyrics, instructions) => {
 
 export const BRIDGE_PROMPT_TEMPLATE = (songName) => {
   const t = CONFIG();
-  const base = `Tehtäväsi on auttaa sitsien aasinsillan rakentamisessa kahdessa vaiheessa.
+  let base = `Tehtäväsi on auttaa sitsien aasinsillan rakentamisessa kahdessa vaiheessa.
 
 Sinulle annetaan valmiiksi sitsilaulun nimi: ${songName}. Et tarvitse sanoituksia etkä saa käyttää biisin teemaa, sisältöä tai tarinaa aasinsillan pohjana. Aasinsillan ei pidä liittyä biisin aiheeseen, vaan sen pitää olla erillinen, tavallisen elämän pieni kertomus, jonka aivan viimeiset sanat viittaavat biisin nimeen tai kuulostavat siltä, että siitä voi tajuta mikä biisi on tulossa.
 
@@ -135,6 +135,11 @@ Muista:
 - Jos yhteys on vähän huono, se on usein hyvä asia
 - Jos käyttäjän valitsema vaihtoehto on huono tai vaikea, älä vaihda sitä parempaan, vaan rakenna aasinsilta juuri siitä`;
 
+  if (currentLang === 'en') {
+    base = base.replace(/suomea/g, 'englantia')
+               .replace(/suomeksi/g, 'englanniksi')
+               .replace(/Ja tästä tuli mieleen laulu numerolla\.\.\./g, 'And this reminded me of a song numbered...');
+  }
   return (base + `\n\n${t.promptLanguageSuffix}`).trim();
 };
 
