@@ -1,5 +1,5 @@
 export const CONFIG = {
-  appName: 'Sitsilaulun muokkausohjelma',
+  appName: 'Sitsi laulun muokkaus ohjelma',
   chatgptUrl: 'https://chat.openai.com',
   dialogHeadline: "Me ei makseta API laskuja tuosta paskasta",
   copyButtonText: 'Kopioi prompti & avaa ChatGPT',
