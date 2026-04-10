@@ -25,37 +25,52 @@ function render() {
       <h1>${CONFIG.appName}</h1>
     </div>
 
-    <div class="search-box">
-      <input type="text" id="search" placeholder="${CONFIG.searchPlaceholder}" />
-    </div>
+    <div class="step">
+      <span class="step-number">1.</span>
+      <div class="step-content">
+        <div class="search-box">
+          <input type="text" id="search" placeholder="${CONFIG.searchPlaceholder}" />
+        </div>
 
-    <div class="panels">
-      <div class="song-list">
-        <div class="song-list-title">${CONFIG.songListTitle}</div>
-        <div id="song-items"></div>
-      </div>
-      <div class="preview">
-        <div class="preview-title">${CONFIG.previewTitle}</div>
-        <div id="preview-content">
-          <div class="preview-empty">${CONFIG.previewEmpty}</div>
+        <div class="panels">
+          <div class="song-list">
+            <div class="song-list-title">${CONFIG.songListTitle}</div>
+            <div id="song-items"></div>
+          </div>
+          <div class="preview">
+            <div class="preview-title">${CONFIG.previewTitle}</div>
+            <div id="preview-content">
+              <div class="preview-empty">${CONFIG.previewEmpty}</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="custom-lyrics">
+          <button class="custom-lyrics-toggle" id="custom-lyrics-toggle">${CONFIG.customLyricsLabel}</button>
+          <div class="custom-lyrics-content" id="custom-lyrics-content" style="display:none;">
+            <textarea id="custom-lyrics" placeholder="Liitä tai kirjoita sanat..."></textarea>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="custom-lyrics">
-      <button class="custom-lyrics-toggle" id="custom-lyrics-toggle">${CONFIG.customLyricsLabel}</button>
-      <div class="custom-lyrics-content" id="custom-lyrics-content" style="display:none;">
-        <textarea id="custom-lyrics" placeholder="Liitä tai kirjoita sanat..."></textarea>
+    <div class="step">
+      <span class="step-number">2.</span>
+      <div class="step-content">
+        <div class="alteration" id="alteration-box">
+          <label>${CONFIG.alterationLabel}</label>
+          <textarea id="alteration" placeholder='${CONFIG.alterationPlaceholder}'></textarea>
+        </div>
       </div>
     </div>
 
-    <div class="alteration">
-      <label>${CONFIG.alterationLabel}</label>
-      <textarea id="alteration" placeholder='${CONFIG.alterationPlaceholder}'></textarea>
-    </div>
-
-    <div class="generate-wrap">
-      <button class="generate-btn" id="generate-btn">${CONFIG.generateButtonText}</button>
+    <div class="step">
+      <span class="step-number">3.</span>
+      <div class="step-content">
+        <div class="generate-wrap">
+          <button class="generate-btn" id="generate-btn">${CONFIG.generateButtonText}</button>
+        </div>
+      </div>
     </div>
 
     <div class="modal-overlay" id="modal">
@@ -126,10 +141,23 @@ function bind() {
   });
 
   // Generate
+  const alterationBox = document.getElementById('alteration-box');
+  const songListEl = document.querySelector('.panels');
+
   generateBtn.addEventListener('click', () => {
     const lyrics = getSelectedLyrics(customLyrics);
     const instructions = alteration.value.trim();
-    if (!lyrics && !instructions) return;
+    let valid = true;
+
+    if (!lyrics) {
+      flash(songListEl);
+      valid = false;
+    }
+    if (!instructions) {
+      flash(alterationBox);
+      valid = false;
+    }
+    if (!valid) return;
 
     const prompt = buildPrompt(lyrics, instructions);
     openDialog(modal, prompt);
@@ -144,6 +172,13 @@ function bind() {
   modalAction.addEventListener('click', () => {
     copyAndRedirect(getCurrentPrompt());
   });
+}
+
+function flash(el) {
+  el.classList.remove('flash');
+  void el.offsetWidth;
+  el.classList.add('flash');
+  el.addEventListener('animationend', () => el.classList.remove('flash'), { once: true });
 }
 
 function escapeHtml(str) {

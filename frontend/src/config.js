@@ -1,5 +1,5 @@
 export const CONFIG = {
-  appName: 'LONKERON MAKU OUTO',
+  appName: 'Sitsilaulun muokkausohjelma',
   chatgptUrl: 'https://chat.openai.com',
   dialogHeadline: "Me ei makseta API laskuja tuosta paskasta",
   copyButtonText: 'Kopioi prompti & avaa ChatGPT',
@@ -9,7 +9,7 @@ export const CONFIG = {
   customLyricsLabel: 'Etkö löydä biisiä? Kirjoita se tähän',
   alterationLabel: '✏️ MUOKKAUSOHJEET:',
   alterationPlaceholder: 'esim. "tee tästä laulu kebabista"',
-  generateButtonText: 'TEE UUSI BIISI ©',
+  generateButtonText: 'Tee see',
   previewEmpty: 'Valitse biisi vasemmalta',
 };
 
