@@ -25,9 +25,12 @@ function render() {
   app.innerHTML = `
     <div class="header">
       <h1>${t.appName}</h1>
-      <div class="lang-switch">
-        <button id="lang-fi" class="${currentLang === 'fi' ? 'active' : ''}">FI</button>
-        <button id="lang-en" class="${currentLang === 'en' ? 'active' : ''}">EN</button>
+      <div class="lang-controls">
+        <div class="lang-switch">
+          <button id="lang-fi" class="${currentLang === 'fi' ? 'active' : ''}">FI</button>
+          <button id="lang-en" class="${currentLang === 'en' ? 'active' : ''}">EN</button>
+        </div>
+        <div class="lang-hint">${t.languageHint}</div>
       </div>
     </div>
 

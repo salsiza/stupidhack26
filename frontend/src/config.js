@@ -16,6 +16,8 @@ export const TRANSLATIONS = {
     promptEditHeader: 'Muokkaa tätä sitsilaulua:',
     promptInstructionsHeader: 'Muokkausohjeet:',
     promptLanguageSuffix: '',
+    bridgeSongLine: 'Ja tästä tuli mieleen laulu numerolla...',
+    languageHint: 'Kielivalinta vaikuttaa generoituun tulokseen.',
     bridgeTitle: '🪑 AASINSILTAHOMMAT:',
     bridgeSongLabel: 'Mille biisille tää kömpelö kaarros tehdään?',
     bridgeSongPlaceholder: 'esim. Paavi ja sulttaani',
@@ -39,6 +41,8 @@ export const TRANSLATIONS = {
     promptEditHeader: 'Edit this sitsi song:',
     promptInstructionsHeader: 'Editing instructions:',
     promptLanguageSuffix: 'Please provide the response in English.',
+    bridgeSongLine: 'And that made me think of song number...',
+    languageHint: 'Language selection affects the generated result.',
     bridgeTitle: '🪑 BRIDGE NONSENSE:',
     bridgeSongLabel: 'Which song should this awkward segue point to?',
     bridgeSongPlaceholder: 'e.g. Pope and the Sultan',
@@ -135,3 +139,10 @@ Muista:
 
 Biisin nimi:
 {songName}`;
+
+export const BRIDGE_PROMPT_TEMPLATE_WITH_LANG = (songName) => {
+  const t = CONFIG();
+  return `${BRIDGE_PROMPT_TEMPLATE
+    .replaceAll('Ja tästä tuli mieleen laulu numerolla...', t.bridgeSongLine)
+    .replace('{songName}', songName)}\n\n${t.promptLanguageSuffix}`.trim();
+};

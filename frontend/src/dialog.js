@@ -1,4 +1,4 @@
-import { CONFIG, PROMPT_TEMPLATE, BRIDGE_PROMPT_TEMPLATE } from './config.js';
+import { CONFIG, PROMPT_TEMPLATE, BRIDGE_PROMPT_TEMPLATE_WITH_LANG } from './config.js';
 
 let kontekstiText = '';
 
@@ -17,7 +17,7 @@ export function buildPrompt(lyrics, instructions) {
 }
 
 export function buildBridgePrompt(songName) {
-  return BRIDGE_PROMPT_TEMPLATE.replace('{songName}', songName);
+  return BRIDGE_PROMPT_TEMPLATE_WITH_LANG(songName);
 }
 
 let currentPrompt = '';
