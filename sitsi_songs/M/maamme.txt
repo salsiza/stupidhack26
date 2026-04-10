@@ -1,0 +1,23 @@
+Title: maamme
+Category: M
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/maamme.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+Oi maamme, Suomi, synnyinmaa,
+soi, sana kultainen!
+:,: Ei laaksoa, ei kukkulaa,
+ei vettä rantaa rakkaampaa
+kuin kotimaa tää pohjoinen,
+maa kallis isien. :,:
+
+Sun kukoistukses kuorestaan
+kerrankin puhkeaa;
+:,: viel lempemme saa nousemaan
+sun toivos, riemus loistossaan,
+ja kerran laulus, synnyinmaa
+korkeemman kaiun saa. :,:
+
+---END---

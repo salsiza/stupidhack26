@@ -1,0 +1,24 @@
+Title: klustronikka
+Category: K
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/klustronikka.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Ankronikka
+Writers: Henri Peurasaari
+
+---LYRICS---
+
+Vauhtimesta hurjin on
+Domus Gaudium.
+Aina täynnä pongia on
+Domus Gaudium.
+Kolikot laskee, ja kaapit aukee, Klurre! Oo-oh!
+Uutta viinaa aina avaa, Klurre! Oo-oh!
+Joskus hyvää, ussein pahaa, Klurre! Oo-oh!
+
+Nurmivaara väijyy takanasi, vanhat jäärät kannoillasi!
+Mitä teet sen kaiken salaa, Klurre! Oo-oh!
+Uutta viinaa aina avaa, Klurre! Oo-oh!
+Ei vanha eikä uusikaan vaan Klurre! Oo-oh!
+
+---END---

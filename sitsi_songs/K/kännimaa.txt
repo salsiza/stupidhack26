@@ -1,0 +1,31 @@
+Title: kännimaa
+Category: K
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/kännimaa.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Joulumaa
+Drinking_Cue: siemaillaan
+
+---LYRICS---
+
+Kännimaahan matkamies jo moni tietä kysyy.
+Sinne saattaa löytää, vaikka pöydässänsä pysyy.
+Katson kaljan kuohuja ja tuopin lasipintaa.
+En mä jaksa laskeskella kännin täyttä hintaa.
+
+Kännimaa on muutakin kuin pelkkää Lapin Kultaa.
+Kännimaa on joka juopon märkää toiveunta.
+Eikä sinne matka silloin kovin kauan kestä,
+kännimaa jos jokaiselta löytyy sydämestä.
+
+Kännimaasta kuvitellaan paljon kaikenlaista,
+kuinka viinaa riittää eikä ole krapulaista.
+Kännimaasta toivoo moni onnen löytävänsä,
+mutta saattaa kohdatakin liskoystävänsä.
+
+Kännimaa on muutakin kuin pelkkää Lapin Kultaa.
+Kännimaa on joka juopon märkää toiveunta.
+Eikä sinne matka silloin kovin kauan kestä,
+kännimaa jos jokaiselta löytyy sydämestä.
+
+---END---

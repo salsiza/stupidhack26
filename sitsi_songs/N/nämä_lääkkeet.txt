@@ -1,0 +1,19 @@
+Title: nämä_lääkkeet
+Category: N
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/nämä_lääkkeet.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Jääkärimarssi
+
+---LYRICS---
+
+Syvä kurkkumme on, jano sammumaton,
+juomme saavista Karjalan A:ta.
+Sillä kossu ja kessu ne lääkkeemme on,
+eikä vatsamme täyttyä saata.
+Nämä lääkkeet ne maksalle lohdun soi,
+mi voihkivi tuskissansa.
+:,: Sitä ennen ei putkemme katketa voi,
+kun kaikki on turvallansa. :,:
+
+---END---

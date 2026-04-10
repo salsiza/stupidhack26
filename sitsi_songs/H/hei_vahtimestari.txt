@@ -1,0 +1,23 @@
+Title: hei_vahtimestari
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/hei_vahtimestari.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+:,: Hei vahtimestari!
+Tule, täytä lasini.
+Vie tyhjät pullot pois! :,:
+:,: Kyllä enemmänkin juodaan,
+jos vain lisää tuodaan,
+ja laskut maksetaan jos jaksetaan. :,:
+
+:,: Hei vahtimestari!
+Tule täytä lasini.
+Vie kuolleet fuksit pois! :,:
+:,: Ja kun mä kerran kuolen,
+kyll' firma pitää huolen,
+ett' Vanhan Kellariin mut haudataan. :,:
+
+---END---

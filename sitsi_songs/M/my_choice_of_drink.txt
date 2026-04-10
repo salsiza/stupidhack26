@@ -1,0 +1,32 @@
+Title: my_choice_of_drink
+Category: M
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/my_choice_of_drink.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Wellerman
+Writers: Suvi Kanerva
+
+---LYRICS---
+
+There once was a drink that topped all drinks.
+The name of the drink still a mystery.
+The crew stood up; their food wolfed down.
+Oh my, what a good drink, wow. (huh)
+
+Soon may the secret be out
+to bring us peace and joy and fun.
+One day, when the party is done,
+we’ll take our drinks and go.
+
+There once was a drink that topped all drinks.
+The name of the drink was _______________.
+`[fill in your fave]`
+The gang cheered up, all strife cooled down.
+Oh my, what a good choice, wow. (huh)
+
+Now may the secret be out
+to bring me peace and joy and fun.
+One day, when the party is done,
+we’ll take our drinks and go.
+
+---END---

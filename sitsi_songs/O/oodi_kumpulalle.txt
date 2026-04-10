@@ -1,0 +1,54 @@
+Title: oodi_kumpulalle
+Category: O
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/oodi_kumpulalle.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Pikku-Matin auto
+
+---LYRICS---
+
+Kemisti se hakee vielä kerran lääkikseen,
+kemisti se hakee vielä kerran lääkikseen,
+kemisti se hakee vielä kerran lääkikseen.
+Nyt on aika muutoksen!
+
+Geologit vain nuoleskelee kiviään...
+
+Geofyysikoilla ei oo yhtään fukseja...
+
+Moodin fukseilla ei ole tuutoreita...
+
+Synoplainen kulkee aina pää pilvissä...
+
+Mantsalainen luulee olevansa kuningas...
+
+Käpistelyn pitäis olla amislinja...
+
+Resonanssi se vaan jakelee pehmistä...
+
+Matemaatikot ei lähde komerostaan...
+
+Meridiaani valmistaa Heureka-oppaita...
+
+Speksiläiset ovat tietämättään kultissa...
+
+Mestalaiset eivät koskaan ole mestoilla...
+
+Kimmon ystävät on aina hyvinvoivia...
+
+Spektrumlainen talar svenska ihan keskenään...
+
+Nobody has any clue what Integralis does...
+It’s time to right the wrongs!
+
+Limes ry on pelkkä approjärjestö...
+Nyt on aika muutoksen!
+
+Matlul ei oo pokkaa _mmmhmmhmmhm_ Klusteril...
+
+TKO-äly ei ole köyhä järjestö,
+TKO-äly ei ole köyhä järjestö,
+TKO-äly ei ole köyhä järjestö
+Ei oo syytä muutokseen!
+
+---END---

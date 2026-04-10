@@ -1,0 +1,19 @@
+Title: hyvät_ystävät
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/hyvät_ystävät.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+Hyvät ystävät, juhla voi alkaa,
+sankarille me nostamme maljaa
+:,: Tääll’ ei juodakaan kolmosen kaljaa,
+meille viihdyn suo samppanja vaan! :,:
+
+Hauska juomia kurkkuun on suistaa, 
+siten opiskeluaikoja muistaa. 
+:,: Yhteinen Juomalaulumme luistaa, 
+juhlamieli on parhaimmillaan. :,:
+
+---END---

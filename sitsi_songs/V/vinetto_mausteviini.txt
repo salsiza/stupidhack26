@@ -1,0 +1,23 @@
+Title: vinetto_mausteviini
+Category: V
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/vinetto_mausteviini.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Petteri Punakuono
+
+---LYRICS---
+
+Muistat Chardonnay, beaujolais'n, tokajin varmaan
+Ja tempranillon, martinin karvaan
+Mutta viini tää, sulta usein unhoon jää...
+Vinetto-mausteviini, ruskea on väriltään
+Liene ei liian fiini, vinettomme kellekään
+Haukkuivat toiset illoin, tärpätiksi pilkaten
+Tuosta vain saikin silloin, juhlijamme aattehen:
+
+"Pöytäjuhla pitkä on, puhemaraton
+Vinetto vois mukanaan, viedä sieltä humalaan!"
+Vinetto siitä asti, povarissa matkaten
+Nousuun saa joutuisasti, juhlamielen iloisen!
+
+---END---

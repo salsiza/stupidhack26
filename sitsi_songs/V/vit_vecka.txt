@@ -1,0 +1,23 @@
+Title: vit_vecka
+Category: V
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/vit_vecka.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: White Christmas
+Drinking_Cue: skool
+
+---LYRICS---
+
+Jag drömmer om en vit vecka.
+Sju dagar utan alkohol.
+Tänk att bara skåla
+i juice och cola
+och sedan minnas allt man gjort.
+
+Jag drömmer om en vit vecka,
+det finns en gräns för vad jag tål.
+Jag vill inte drick
+mera sprit
+så låt nästä vecka vara vit.
+
+---END---

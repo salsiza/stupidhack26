@@ -1,0 +1,14 @@
+Title: matin_syntymäpäivälaulu
+Category: M
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/matin_syntymäpäivälaulu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+Paljon onnea vaan,
+paljon onnea vaan,
+paljon onnea ______,
+paljon onnea vaan.
+
+---END---

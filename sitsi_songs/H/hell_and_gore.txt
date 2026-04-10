@@ -1,0 +1,19 @@
+Title: hell_and_gore
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/hell_and_gore.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Helan går
+
+---LYRICS---
+
+Hell and gore,
+shun gop, Father Allan, lallen lay.
+Hell and gore,
+shun gop, Father Allan lay.
+Oh, handsome in the Hell and tar,
+hand, ay Hell are half and four.
+Hell and gore -
+Shun gop, Father Allan lay!
+
+---END---

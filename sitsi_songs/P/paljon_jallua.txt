@@ -1,0 +1,15 @@
+Title: paljon_jallua
+Category: P
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/paljon_jallua.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Paljon onnea vaan
+
+---LYRICS---
+
+Paljon jallua vaan,
+paljon jallua vaan,
+paljon jallua mulle,
+paljon jallua vaan
+
+---END---

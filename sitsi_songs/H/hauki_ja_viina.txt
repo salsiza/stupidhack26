@@ -1,0 +1,40 @@
+Title: hauki_ja_viina
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/hauki_ja_viina.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Stenka Rasin
+
+---LYRICS---
+
+Katonrajass' kulkee hauki,
+pahaa taitaa tarkoittaa!
+:,: Kierrä pullon korkki auki,
+ryyppy pedon karkoittaa. :,:
+
+Pöydän alta ryömii lisko,
+ilkein silmin tuijottaa.
+:,: Ryyppy toinen naamaas kisko,
+aistiharha lähdön saa. :,:
+
+Vierustuolill' istuu hylje,
+pyrstö läpsii palleaas'.
+:,: Kunhan vain et lasiin sylje,
+mursu daamiks' muuttuu taas. :,:
+
+Pöydän päällä ammuu nauta,
+maitoo koittaa tyrkyttää.
+:,: Ryyppy neljäs, jumalauta,
+maitohapot myrkyttää. :,:
+
+Uppå väggen går en gädda
+med långa ludna svarta ben.
+:,: Men ni ska inte vara rädda,
+tag en sup och allt går väl. :,:
+
+Vita möss som går i taket,
+råna hest och falla ner.
+:,: Men ni ska inte vara rädda,
+tag en sup och allt gör väl. :,:
+
+---END---

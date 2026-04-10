@@ -1,0 +1,15 @@
+Title: drink_your_beer
+Category: D
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/drink_your_beer.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Row, Row, Row Your Boat
+
+---LYRICS---
+
+Drink, drink, drink your beer
+Gently down it goes
+Merrily, merrily, merrily, merrily
+Goes right to your toes
+
+---END---

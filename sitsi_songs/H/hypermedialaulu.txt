@@ -1,0 +1,18 @@
+Title: hypermedialaulu
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/hypermedialaulu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Jaakko kulta
+
+---LYRICS---
+
+Javaskripti, javaskripti, C++, C++,
+Corba sekä Perli, Corba sekä Perli,
+SQL, SQL.
+
+HTML, HTML, XML, XML,
+Flashi sekä QuickTime, Flashi sekä QuickTime,
+CSS, CSS.
+
+---END---

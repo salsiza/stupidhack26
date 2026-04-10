@@ -1,0 +1,26 @@
+Title: sirius_drinkers
+Category: S
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/sirius_drinkers.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Star Wars Main Theme, The Imperial March
+
+---LYRICS---
+
+:,: Lärvit, lä-lä-lä-lärvit, lä-lä-lä-lärvit, nyt vedetään! :,:
+
+Kun tänään otan monta tuoppia kuohuvaa,
+niin hyvän olon siitä saan.
+Ja siihen päälle vedän putelin koskista,
+niin siitä vasta kone käynnistyy!
+
+LÄ-LÄ- :,: Lärvit, lä-lärvit, lä-lärvit, nyt vedetään! :,:
+...TAI SITTEN EI!
+
+Kraa-kraa-kraa-kraa-pulaa-kraa-pulaa,
+kraa-kraa-kraa-kraa-pulaa-kraa-pulaa.
+Kraa-kraa-kraa-kraa-kra-kra-pula,
+kra-kraa-kraa-kra-kra-pula.
+Kra-kraa-kraa-pulaa-kraa-pulaa.
+
+---END---

@@ -1,0 +1,21 @@
+Title: alkoholiton_juomakaanon
+Category: A
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/alkoholiton_juomakaanon.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Jaakko Kulta
+Writers: Mari Karlsson
+
+---LYRICS---
+
+Mehukatti, Mehukatti
+Bon Aqua, Bon Aqua
+Kahvia tai teetä, kahvia tai teetä
+Maidolla, maidolla
+
+Coca-Cola, Coca-Cola
+7 Up, 7 Up
+Appelsiini-Jaffa, appelsiini-Jaffa
+Mehuli, mehuli
+
+---END---

@@ -1,0 +1,16 @@
+Title: vi_ska_dricka_hela_natten
+Category: V
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/vi_ska_dricka_hela_natten.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Jos sun lysti on
+
+---LYRICS---
+
+Vi ska dricka hela natten alkohol,
+vi ska dricka hela natten alkohol,
+vi ska dricka hela natten,
+vi ska inte dricka vatten,
+vi ska dricka hela natten alkohol!
+
+---END---

@@ -1,0 +1,34 @@
+Title: viljaviinaa
+Category: V
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/viljaviinaa.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: John Williams - The Raiders March (Indiana Jones -teema)
+
+---LYRICS---
+
+Viljaviinaa, maistetaan.
+Viljaviinaa, siitä ryypyn saa!
+Viljaviinaa, lauletaan,
+sillä kaukaiset aarteet me aukaistaan.
+
+Viljaviinaa, maistetaan.
+Viljaviinaa, siitä ryypyn saa!
+Viljaviinaa, trallalaa,
+sillä kaukaiset aarteet me aukaistaan.
+
+Leijonaa, toiset meille haluaa suosittaa,
+Koskenkorvaa, Vaakuna-viinaa.
+Kuinka on, jos Wyborova sitsimme juhlistaa?
+Onko Tasavalt, Alku-viina,
+Metsästäjän, Kalastajan
+Perinne, Tyrnävän, Smirnoff
+Parempaa?
+
+Viljaviinaa, maistetaan.
+Viljaviinaa, siitä ryypyn saa!
+Viljaviinaa, trallalaa,
+sillä äänemme myös me aukaistaan!
+Absolut!
+
+---END---

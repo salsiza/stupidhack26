@@ -1,0 +1,15 @@
+Title: pienet_konjakit
+Category: P
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/pienet_konjakit.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Pienet sammakot
+
+---LYRICS---
+
+:,: Pienet konjakit, pienet konjakit,
+ne lystikkäitä on :,:
+:,: Ei korvia, ei korvia,
+ei häntää laisinkaan. :,:
+
+---END---

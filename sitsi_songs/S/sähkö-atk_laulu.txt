@@ -1,0 +1,18 @@
+Title: sähkö-atk_laulu
+Category: S
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/sähkö-atk_laulu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Jaakko Kulta
+
+---LYRICS---
+
+Javascripti, javascripti, RoR, RoR,
+React sekä Angular, React sekä Angular,
+NoSQL, NoSQL.
+
+HTML5, HTML5, JSON, JSON,
+WebGL sekä Bootstrap, WebGL sekä Bootstrap,
+SCSS, SCSS.
+
+---END---
