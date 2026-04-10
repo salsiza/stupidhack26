@@ -1,0 +1,19 @@
+Title: Tänään otetaan
+Source: https://www.niksula.hut.fi/~sivaron1/l/tanaan_otetaan.html
+Type: sitsi_song
+---LYRICS---
+
+Tänään Otetaan
+Joulu on taas
+
+:,:Tänään otetaan, tänään otetaan,
+helvetin paljon viinaa:,:
+:,:Huomenna on, huomenna on,
+helvetin kova krapula:,:
+
+:,:I dag ska vi ha, i dag ska vi ha,
+helvete mycket brännvin:,:
+:,:I morgon ska vi ha, i morgon ska vi ha,
+helvete kova krapula:,:
+
+---END---

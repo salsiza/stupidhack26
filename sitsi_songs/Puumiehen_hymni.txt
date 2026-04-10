@@ -1,0 +1,14 @@
+Title: Puumiehen hymni
+Source: https://www.niksula.hut.fi/~sivaron1/l/puujk.html
+Type: sitsi_song
+---LYRICS---
+
+Puumiehen hymni
+
+Varjele Luoja ihmisen lasta
+puumiehen muijaksi joutumasta.
+Paperist' on pääkoppa,
+lankuista kroppa
+ja tikkuviina virtaa suonissa.
+
+---END---

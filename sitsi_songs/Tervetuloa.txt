@@ -1,0 +1,11 @@
+Title: Tervetuloa
+Source: https://www.niksula.hut.fi/~sivaron1/l/tervetuloa.html
+Type: sitsi_song
+---LYRICS---
+
+Tervetuloa
+
+Tervetuloa, sikahumala
+aurinkoinen appelsiinimehujuoma.
+
+---END---

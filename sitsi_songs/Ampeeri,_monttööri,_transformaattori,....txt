@@ -1,0 +1,15 @@
+Title: Ampeeri, monttööri, transformaattori,...
+Source: https://www.niksula.hut.fi/~sivaron1/l/ampeeri.html
+Type: sitsi_song
+---LYRICS---
+
+Sähkösanoma
+ Tämä laulu on yleensä kirjoitettu symbolein
+ja sen saattaa nähdä mm. SIKkiläisten haalareissa.
+
+Ampeeri, monttööri, transformaattori,
+kilowatti, voltti ja generaattori,
+oikosulku ja proppu.
+Tähän minun lauluni loppu.
+
+---END---

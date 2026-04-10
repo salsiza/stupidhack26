@@ -1,0 +1,18 @@
+Title: IK:n hymni
+Source: https://www.niksula.hut.fi/~sivaron1/l/ik.html
+Type: sitsi_song
+---LYRICS---
+
+IK:n hymni
+
+Insinööriksi olen minä syntynyt,
+insinööriksi olen minä luotu.
+ :,: Terässiltojen rautateiden kunniaksi
+ on minun ristiäiseni juotu. :,:
+
+Insinööriksi olen minä syntynyt,
+insinööriksi olen minä luotu.
+ :,: Polusteekista tiet, sillat, kanavat
+ siksi oppia on mun suotu. :,:
+
+---END---

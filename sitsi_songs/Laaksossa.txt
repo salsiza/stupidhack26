@@ -1,0 +1,16 @@
+Title: Laaksossa
+Source: https://www.niksula.hut.fi/~sivaron1/l/yksi_ruusu.html
+Type: sitsi_song
+---LYRICS---
+
+Yksi ruusu on kasvanut laaksossa,
+ joka kauniisti kukoistaa.
+:,: Yksi kulkijapoika on nähnyt sen,
+ eikä voi sitä unhoittaa. :,:
+
+ Ja hän olisi kyllä sen poiminut
+ ja painanut povelleen.
+:,: Mutta köyhänä ei ole tohtinut,
+ vaan on jättänyt paikoilleen. :,:
+
+---END---

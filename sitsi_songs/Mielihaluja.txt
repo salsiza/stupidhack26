@@ -1,0 +1,24 @@
+Title: Mielihaluja
+Source: https://www.niksula.hut.fi/~sivaron1/l/mielihaluja.html
+Type: sitsi_song
+---LYRICS---
+
+Mielihaluja
+Teema elokuvasta Mies ja nainen
+
+Tahtoisin Gini-Tonicin, Gini-Tonicin,
+tai sitten Minttu-Fernetin, Minttu-Fernetin.
+Kelpaa se Kossu-Vissykin, Kossu-Vissykin
+Nyt ryypätään, nyt ryypätään.
+
+Tahtoisin rloginin, rloginin,
+tai sitten .cshrc:n, .cshrc:n.
+Kelpaa se vihree bittikin, vihree bittikin.
+Nyt häckätään, nyt häckätään.
+
+Tahtoisin kerrostalonkin, kerrostalonkin,	
+tai sitten rivitalonkin, rivitalonkin.		
+Kelpaa se kivijalkakin, kivijalkakin.		
+Nyt piikataan, nyt piikataan.
+
+---END---

@@ -1,0 +1,24 @@
+Title: Ja me juomme tämän talon onneksi,...
+Source: https://www.niksula.hut.fi/~sivaron1/l/onneksi.html
+Type: sitsi_song
+---LYRICS---
+
+:,:Ja me juomme tämän talon onneksi,
+ kippis, kippis.:,:
+:,:Täällä oleville, poissa oleville
+ ja vastakin talohon tuleville,
+ kippis, kippis.:,:
+
+:,:Ja me juomme tämän talon konkurssiin,
+ kippis, kippis.:,:
+:,:Täällä oleville, poissa oleville
+ ja vastakin talohon tuleville,
+ kippis, kippis.:,:
+
+:,:Ja me juomme tämän auton bensiinin,
+ kippis, kippis.:,:
+:,:Kaiken öljynkin, koko voitelun
+ ja helavila akkumulaattorin,
+ kippis, kippis.:,:
+
+---END---

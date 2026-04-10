@@ -1,0 +1,27 @@
+Title: Hong Kongin kansallislaulu
+Source: https://www.niksula.hut.fi/~sivaron1/l/hong-kong.html
+Type: sitsi_song
+---LYRICS---
+
+:,: Kviik kvääk mani-mani-mani-mani umppa,
+ kviik kvääk kviik, kviik kvääk kvook. :,:
+ Ooo nikka nii-moo,
+ oo kali-kali aa-aa-moo.
+ Ooo nikka nii-moo,
+ oo kali-kali umppa, umppa, umppa.
+
+:,: Kviik kvääk mani-mani-mani-mani umppa,
+ kviik kvääk kviik, kviik kvääk kvook. :,:
+ Ooo nikka nii-moo,
+ oo kali-kali aa-aa-moo.
+ Ooo nikka nii-moo,
+ oo kali-kali umppa, umppa.
+
+:,: Kviik kvääk mani-mani-mani-mani umppa,
+ kviik kvääk kviik, kviik kvääk kvook. :,:
+ Ooo nikka nii-moo,
+ oo kali-kali aa-aa-moo.
+ Ooo nikka nii-moo,
+ oo kali-kali umppa.
+
+---END---

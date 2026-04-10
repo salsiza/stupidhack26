@@ -1,0 +1,22 @@
+Title: Finlandia
+Source: https://www.niksula.hut.fi/~sivaron1/l/finlandia.html
+Type: sitsi_song
+---LYRICS---
+
+Finlandia-hymni
+
+Oi katso, Suomi, sinun päiväs koittaa,
+yön uhka karkoitettu on jo pois
+ja aamun kiurukirkkaudessa soittaa
+kuin itse taivahan kansi sois,
+yön vallat aamun valkeus jo voittaa,
+sun päiväs koittaa, oi synnyinmaa.
+
+Oi nouse, Suomi, nosta korkealle
+pääs' seppelöimä suurten muistojen
+oi nouse, Suomi, näytit maailmalle
+sa että karkoitit orjuuden
+ja ettet taipunut sa sorron alle,
+on aamus alkanut, synnyinmaa.
+
+---END---

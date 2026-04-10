@@ -1,0 +1,26 @@
+Title: Vivat polytechnicum
+Source: https://www.niksula.hut.fi/~sivaron1/l/vivat_polytechnicum.html
+Type: sitsi_song
+---LYRICS---
+
+Vivat polytechnicum
+
+:,: Gaudeamus igitur,
+iuvenes dum sumus, :,:
+post iucundam iuventutem,
+post molestam senectutem,
+:,: nos habebit humus. :,:
+
+:,: Vivat polytechnicum,
+vivant professores! :,:
+Vivat membrum quodlibet,
+vivant membra quaelibet.
+:,: Semper sint in flore! :,:
+
+:,: Vivant omnes virgines,
+faciles, formosae! :,:
+Vivant et mulieres,
+tenerae, amabiles,
+:,: bonae laboriosae! :,:
+
+---END---

@@ -1,0 +1,15 @@
+Title: Hymni
+Source: https://www.niksula.hut.fi/~sivaron1/l/hymni.html
+Type: sitsi_song
+---LYRICS---
+
+Hymni
+
+Yö kuin sielu neekerin on pimiä,
+takajoukko nukkuu vain, nukkuu vain.
+Tarhapöllön ääni kimiä
+kuuluu pappilasta päin, kuuluu päin.
+Ja taas ja siis ja 1, 2, 3, 4, 5.
+*
+
+---END---

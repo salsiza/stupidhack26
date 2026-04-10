@@ -1,0 +1,23 @@
+Title: Helan Går
+Source: https://www.niksula.hut.fi/~sivaron1/l/helan_gor.html
+Type: sitsi_song
+---LYRICS---
+
+Helan Går
+Lähteellä
+
+En liten fågel satt en gång
+och sjöng i furuskog.
+Han hade sjungit dagen lång
+men dock ej sjungit nog.
+ Helan går,
+ sjung hoppfarallallallallallej
+ Helan går,
+ sjung hoppfarallallallej
+ Den som inte helan tar,
+ den inte heller halfvan får.
+ Helan går
+ .
+ Sjung hoppfarallallallallej
+
+---END---

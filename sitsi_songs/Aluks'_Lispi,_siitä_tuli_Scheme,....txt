@@ -1,0 +1,29 @@
+Title: Aluks' Lispi, siitä tuli Scheme,...
+Source: https://www.niksula.hut.fi/~sivaron1/l/scheme-assarit.html
+Type: sitsi_song
+---LYRICS---
+
+Scheme-Assarit
+Sörkän sallit
+
+Aluks' Lispi, siitä tuli Scheme
+sitten tuli Scheme-assari.
+:,: Ohjelmoinnin pitkä peruskurssi
+pani pienen phuksin sekaisin :,:
+
+Lambda-lause, nietu sulkumerkki,
+lambda-lause, Scheme-assari.
+:,: Loistaa nuolet kauniin proseduurin
+Shosta siellä Schemest' luennoi :,:
+
+Lambda-lauseen vaikeus on suuri,
+Shosta siitä aina jankuttaa.
+:,: Phuksilla kävi hiton huono tuuri,
+kun Shosta jenkeist' Scheme-kurssin toi :,:
+
+Oon vain Scheme-assari oiva,
+ei oo mulla yhtään ystävää.
+:,: Ei ole phuksii eikä ole teekkarii,
+eikä edes yhtään kylterii :,:
+
+---END---

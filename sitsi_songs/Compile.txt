@@ -1,0 +1,48 @@
+Title: Compile
+Source: https://www.niksula.hut.fi/~sivaron1/l/compile.html
+Type: sitsi_song
+---LYRICS---
+
+Elwood: Jake: Band:
+
+Warning warning warning Dump, dump dump
+linting thru the morning Dump, dump dump
+all I see is "Warning" Dump, dump dump
+Compile
+
+Char 'n' int 'n' double
+hell-bent for the trouble
+wishing that lint was on my side
+
+All the bugs its seeking
+and cases that are leaking
+are waiting at the end of this file.
+
+Link it on
+ Run it up
+Run it up
+ Dump core
+Link it on
+ Run it down
+Compile
+
+Find a bug
+ Save the file
+Write a line
+ Save the file
+Find a bug
+ Save the file
+Compile
+
+Warning warning warning Dump, dump, dump
+ Dump, dump, dump
+Warning warning warning Dump, dump, dump
+ Dump, dump, dump
+Warning warning warning
+
+Compile Compile Compile
+
+(spoken)
+*COMPILE!*
+
+---END---

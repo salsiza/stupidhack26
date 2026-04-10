@@ -1,0 +1,14 @@
+Title: krapula
+Source: https://www.niksula.hut.fi/~sivaron1/l/krapula.html
+Type: sitsi_song
+---LYRICS---
+
+krapula
+silliksen koittaessa - tai mennessä ohariksi
+(imperial march)
+
+Kraa-kraa-kraa! Kraa-pula, kraa-pula!
+Kraa-kraa-kraa! Kraa-pula, kraa-pula!
+...
+
+---END---

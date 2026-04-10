@@ -1,0 +1,34 @@
+Title: Minä seison keskellä katua...
+Source: https://www.niksula.hut.fi/~sivaron1/l/poliisilaulu.html
+Type: sitsi_song
+---LYRICS---
+
+Poliisilaulu
+Kansalaislaulu
+
+Minä seison keskellä katua,
+sillä olen poliisi
+ja enkä minä tässä seisoisi,
+ellen poliisi olisi.
+
+Minä seison keskellä ovea,
+sillä olen portsari
+ja enkä minä tässä seisoisi,
+ellen portsari olisi.
+
+Minä laulan keskellä katua,
+sillä olen teekkari
+ja enkä minä tässä laulaisi,
+ellen teekkari olisi.
+
+Minä konttaan keskellä katua,
+sillä olen phuksi
+ja enkä minä tässä konttaisi,
+ellen phuksi mä olisi.
+
+Olen kuollut keskelle katua,
+sillä olen kylteri.
+Ja enkä tässä kuolleena makaisi,
+jollen kylteri olisi.
+
+---END---

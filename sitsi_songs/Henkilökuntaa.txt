@@ -1,0 +1,21 @@
+Title: Henkilökuntaa
+Source: https://www.niksula.hut.fi/~sivaron1/l/henkilokuntaa.html
+Type: sitsi_song
+---LYRICS---
+
+Henkilökuntaa
+
+:,:Henkilökuntaa, henkilökuntaa, parlevuu.:,:
+Henkilökuntaa, henkilökuntaa,
+henkilökuntaa, henkilökuntaa.
+:,:Henkilökuntaa parlevuu.:,:
+
+Lissää viinaa ...
+
+Konjakki ois poikaa ...
+
+Kaljakin kelpaa ...
+
+Phuksit kuolee ...
+
+---END---

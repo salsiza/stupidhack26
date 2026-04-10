@@ -1,0 +1,28 @@
+Title: Prinsessa
+Source: https://www.niksula.hut.fi/~sivaron1/l/prinsessa.html
+Type: sitsi_song
+---LYRICS---
+
+Prinsessa Armada
+
+Prinsessa Armada, huhhei,
+laivamme ruumassa, huhhei,
+merimiehet hänet on raiskanneet,
+ruumahan paiskanneet.
+Prinsessa pullistuu, huhhei,
+laivamme kallistuu, huhhei,
+merimiehet hänet on raiskanneet,
+ruumahan paiskanneet.
+
+Prinsessa Diana
+
+Prinsessa Diana, huhhei,
+suuressa mersussa, huhhei,
+paparazzit häntä kuvanneet,
+maailmalle kaupanneet.
+Prinsessa pakenee, huhhei,
+autossa juopuneen, huhhei,
+paparazzit häntä jahdanneet,
+seinähän lahdanneet.
+
+---END---
