@@ -1,0 +1,15 @@
+Title: ryyppy_saapuu
+Category: R
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/ryyppy_saapuu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Punschen kommer
+
+---LYRICS---
+
+Ryyppy saapuu, ryyppy saapuu vilpoinen.
+Lasit kiiltää, äänet kiitää kilvaten.
+Terve joka muisto, terve kaikille.
+Huolet ovat haihtuneet, siis maljanne!
+
+---END---

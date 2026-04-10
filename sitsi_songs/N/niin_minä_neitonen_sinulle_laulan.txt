@@ -1,0 +1,24 @@
+Title: niin_minä_neitonen_sinulle_laulan
+Category: N
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/niin_minä_neitonen_sinulle_laulan.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+:,: Niin minä, neitonen, sinulle laulan
+kuin omalle kullalleni :,:
+:,: Jos olis valtaa, niin kuin on mieli,
+niin ottaisin omakseni :,:
+
+:,: Kullalleni minä laulelen
+ja kellekäs minä muille :,:
+:,: En minä laula kallioille,
+enkä metsän puille :,:
+
+:,: Vaan minä olen kuin taivaan lintu,
+ei ole mulla majaa. :,:
+:,: Ei ole mulla ystävää,
+ei ole lohduttajaa. :,:
+
+---END---

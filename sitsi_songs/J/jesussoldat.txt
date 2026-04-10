@@ -1,0 +1,15 @@
+Title: jesussoldat
+Category: J
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/jesussoldat.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+Jag är inte med i infanteriet,
+kavalleriet,
+artilleriet.
+Jag är inte med i flyget,
+för jag är Jesus soldat!
+
+---END---

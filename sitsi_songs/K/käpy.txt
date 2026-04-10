@@ -1,0 +1,28 @@
+Title: käpy
+Category: K
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/käpy.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Kaapo-tunnusmusiikki
+Writers: Ada
+
+---LYRICS---
+
+Oon jo n-vuotias,
+oppimaan innokas,
+aain aineen hauskimman käpy.
+
+On paljon tehtävää,
+turhaa ja tärkeää,
+järjestöhommissaan käpy.
+
+Koneeni hyytyy niin minäkin,
+oppaaksi StackOverflown värväsin.
+
+Vaikea koodata,
+itkua parkua,
+ei muista testata käpy.
+
+Käpy, oon käpy, oon käpy, tyntydyn, hei vaan!
+
+---END---

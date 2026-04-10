@@ -1,0 +1,25 @@
+Title: se_kolmas_vesilaulu
+Category: S
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/se_kolmas_vesilaulu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: La Donna É Mobile
+
+---LYRICS---
+
+Vettä kun juoda saa
+Se voipi pelastaa,
+ei iske känni,
+ei ala ränni.
+
+Vesi on herkkua,
+kostuttaa kurkkua.
+Ei tarvii dokata,
+eikä voi mokata.
+
+Raitis on olo,
+ei keuli mopo.
+Aamulla ei
+ole krapulaa.
+
+---END---

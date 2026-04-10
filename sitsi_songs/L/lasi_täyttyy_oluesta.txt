@@ -1,0 +1,23 @@
+Title: lasi_täyttyy_oluesta
+Category: L
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/lasi_täyttyy_oluesta.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Syksyn sävel
+
+---LYRICS---
+
+Lasi täytyy oluesta, elämä on dokaamista
+ota lasi käteen, juodaan kaljaa.
+Pyydä minut aamuteelle,
+oksennetaan parvekkeelle.
+
+Nyt on lokakuu, ja minä vasta treenaan.
+En kossua dokaa, en vinkkua dokaa,
+kun dokaan, niin dokaan kaljaa vaan,
+ja kännissä oon, ennen kuin huomaatkaan.
+Ennen dokasin paljon, tänään dokaan kai
+vielä enemmän.
+Tarjoilija, tuoppi vielä tuokaa.
+
+---END---

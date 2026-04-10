@@ -1,0 +1,15 @@
+Title: viinamaa
+Category: V
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/viinamaa.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Puuhamaa
+
+---LYRICS---
+
+Viinamaa on paras paikka,
+Viinamaa on iloinen.
+Viinamaassa vietät vaikka koko päivän kesäisen.
+Sellainen on Viinamaa!
+
+---END---

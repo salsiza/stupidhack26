@@ -1,0 +1,15 @@
+Title: skrillexin_mökkitie
+Category: S
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/skrillexin_mökkitie.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Tsunami
+
+---LYRICS---
+
+Mö mö mö mökki mökki mökki mökki mökkitie
+Mö mö mö mökki mökki mökki mökki mökkitie
+Mö mö mö mökki mökki mökki mökki mökkitie
+Mö mö mö mökki mökki mökki mökki mökkitie
+
+---END---

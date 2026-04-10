@@ -1,0 +1,24 @@
+Title: huutolaatta
+Category: H
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/huutolaatta.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Cicapo
+
+---LYRICS---
+
+Juon mä hiukan viinaa, sitten oksennan, oksennan.
+Vessaan ryömin, sielläkin mä oksennan, oksennan.
+Huu-uutolaa-aatta, huu-uutolaa-aatta.
+Oksennan, oksennan.
+Laatta se lennähtää.
+Ei vittu kun iljettää.
+
+Nyt tuntuu heikolta, vatsassa kiertää taas.
+Taidanpa piipahtaa, mä nurkan takana.
+Hetken jo helpottaa, elämä voittaa taas.
+Ei, olin väärässä! Väistäkää, saatana!
+
+Juon mä hiukan viinaa...
+
+---END---

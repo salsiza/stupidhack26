@@ -1,0 +1,13 @@
+Title: turkulainen_juomalaulu
+Category: JUOMALAULU
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/turkulainen_juomalaulu.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+
+---LYRICS---
+
+Kupit eteen
+
+Kupit taa
+
+---END---

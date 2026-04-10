@@ -1,0 +1,21 @@
+Title: koff
+Category: K
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/koff.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Lohikäärme Puff
+
+---LYRICS---
+
+Koff on mallasjuoma, niin huurteinen.
+Se lasissani vaahtoaa, on väri kullankeltainen.
+Koffia en vaihda, sen kans niin mukavaa,
+kun muutoin on voi olla kovin tukala.
+
+Koff nyt pullossansa, sua odottaa.
+Se siellä salaa kuplii vaan, ja juojaansa vartoaa.
+Viljasta kai tehtiin Koff kai aikoinaan.
+Jos löydät sen ja nautit sen
+Koff jälleen elää saa!
+
+---END---

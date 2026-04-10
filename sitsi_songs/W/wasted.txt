@@ -1,0 +1,27 @@
+Title: wasted
+Category: W
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/wasted.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Star Wars, The Imperial March
+
+---LYRICS---
+
+:,: Wasted, wa-wa-wa-wasted, 
+wa-wa-wawasted, we're gonna get :,:
+
+First I will drink down two bottles of sparkling
+wine,
+Which gets me feeling more than fine
+And then a barrel of whisky rye is all I need
+To finally get me up to running speed
+
+:,: Wasted, wa-wa-wa-wasted,
+wa-wa-wawasted, we're gonna get :,:
+
+(The Empire strikes back!)
+Hang-hang-hang-hangover, hangover
+Hang-hang-hang-hangover, hangover
+Hang-hang-hang-hang-hang-hangoverha-hang-hang-ha-hangover-ha-hang-hangoverhangover
+
+---END---

@@ -1,0 +1,16 @@
+Title: sen_siiderin
+Category: S
+Source: https://raw.githubusercontent.com/TKOaly/laulum.me/main/songs/sen_siiderin.md
+Source_Type: GitHub/laulum.me
+Type: sitsi_song
+Melody: Nick Borgen - Den Glider In
+
+---LYRICS---
+
+Sen siiderin, sen siiderin,
+sen siiderin kumoon ineen.
+Viskaan helttaani mä sen,
+kaljaa vihaan -
+viskaan taas kurkkuun sen!
+
+---END---
